@@ -1,0 +1,3851 @@
+date,places ,value
+01-01-2019,Bangkok,3334971
+01-01-2019,Lopburi ,51858
+01-01-2019,Phra Nakhon Si Ayutthaya ,117052
+01-01-2019,Saraburi ,89850
+01-01-2019,Chainat ,27141
+01-01-2019,Nakhon Pathom ,118629
+01-01-2019,Sing Buri ,18147
+01-01-2019,Ang Thong ,19140
+01-01-2019,Nonthaburi ,100553
+01-01-2019,Pathum Thani ,56118
+01-01-2019,Samut Prakan ,109185
+01-01-2019,Samut Sakhon ,56561
+01-01-2019,Chachoengsao ,38687
+01-01-2019,Ratchaburi ,93978
+01-01-2019,Kanchanaburi ,339491
+01-01-2019,Samut Songkhram ,65407
+01-01-2019,Suphan Buri ,99531
+01-01-2019,Phetchaburi ,357725
+01-01-2019,Prachuap Khiri Khan ,391494
+01-01-2019,Chonburi ,1343262
+01-01-2019,Chanthaburi ,118776
+01-01-2019,Trat ,205330
+01-01-2019,Nakhon Nayok ,140711
+01-01-2019,Prachinburi ,106063
+01-01-2019,Rayong ,377300
+01-01-2019,Sa Kaeo ,69400
+01-01-2019,Phuket ,1528585
+01-01-2019,Phatthalung ,67285
+01-01-2019,Trang ,131744
+01-01-2019,Ranong ,85886
+01-01-2019,Chumphon ,92831
+01-01-2019,Pattani ,18105
+01-01-2019,Yala ,49144
+01-01-2019,Nakhon Si Thammarat ,245874
+01-01-2019,Narathiwat ,53863
+01-01-2019,Krabi ,348964
+01-01-2019,Songkhla ,431256
+01-01-2019,Phang Nga ,128033
+01-01-2019,Surat Thani ,484886
+01-01-2019,Satun ,88512
+01-01-2019,Kamphaeng Phet ,45815
+01-01-2019,Chiang Rai ,403624
+01-01-2019,Chiang Mai ,928602
+01-01-2019,Phichit ,46475
+01-01-2019,Nakhon Sawan ,118061
+01-01-2019,Tak ,182684
+01-01-2019,Phitsanulok ,202934
+01-01-2019,Phayao ,33961
+01-01-2019,Phetchabun ,214329
+01-01-2019,Phrae ,35764
+01-01-2019,Lampang ,69285
+01-01-2019,Lamphun ,27710
+01-01-2019,Mae Hong Son ,137937
+01-01-2019,Uttaradit ,65695
+01-01-2019,Uthai Thani ,30736
+01-01-2019,Sukhothai ,89231
+01-01-2019,Nan ,95902
+01-01-2019,Kalasin ,23197
+01-01-2019,Khon Kaen ,244958
+01-01-2019,Chaiyaphum ,72160
+01-01-2019,Nakhon Phanom ,46232
+01-01-2019,Nakhon Ratchasima ,529946
+01-01-2019,Buriram ,113655
+01-01-2019,Maha Sarakham ,45480
+01-01-2019,Mukdahan ,70953
+01-01-2019,Roi Et ,43424
+01-01-2019,Loei ,130458
+01-01-2019,Sisaket ,44457
+01-01-2019,Surin ,100932
+01-01-2019,Nong Khai ,118898
+01-01-2019,Bueng Kan ,37974
+01-01-2019,Udon Thani ,189778
+01-01-2019,Ubon Ratchathani ,147377
+01-01-2019,Sakon Nakhon ,66034
+01-01-2019,Yasothon ,17237
+01-01-2019,Amnat Charoen ,8551
+01-01-2019,Nong Bua Lamphu ,14081
+01-01-2020,Bangkok,3213765
+01-01-2020,Lopburi ,39765
+01-01-2020,Phra Nakhon Si Ayutthaya ,107777
+01-01-2020,Saraburi ,81682
+01-01-2020,Chainat ,23128
+01-01-2020,Nakhon Pathom ,109852
+01-01-2020,Sing Buri ,13873
+01-01-2020,Ang Thong ,16084
+01-01-2020,Nonthaburi ,83049
+01-01-2020,Pathum Thani ,50824
+01-01-2020,Samut Prakan ,86797
+01-01-2020,Samut Sakhon ,55591
+01-01-2020,Chachoengsao ,36156
+01-01-2020,Ratchaburi ,84723
+01-01-2020,Kanchanaburi ,329862
+01-01-2020,Samut Songkhram ,59982
+01-01-2020,Suphan Buri ,86973
+01-01-2020,Phetchaburi ,326049
+01-01-2020,Prachuap Khiri Khan ,341491
+01-01-2020,Chonburi ,1329662
+01-01-2020,Chanthaburi ,126987
+01-01-2020,Trat ,184137
+01-01-2020,Nakhon Nayok ,125509
+01-01-2020,Prachinburi ,87087
+01-01-2020,Rayong ,359238
+01-01-2020,Sa Kaeo ,68404
+01-01-2020,Phuket ,1524977
+01-01-2020,Phatthalung ,65735
+01-01-2020,Trang ,125148
+01-01-2020,Ranong ,81465
+01-01-2020,Chumphon ,90484
+01-01-2020,Pattani ,16725
+01-01-2020,Yala ,46228
+01-01-2020,Nakhon Si Thammarat ,222969
+01-01-2020,Narathiwat ,50224
+01-01-2020,Krabi ,338142
+01-01-2020,Songkhla ,455523
+01-01-2020,Phang Nga ,110362
+01-01-2020,Surat Thani ,444734
+01-01-2020,Satun ,79526
+01-01-2020,Kamphaeng Phet ,43616
+01-01-2020,Chiang Rai ,392547
+01-01-2020,Chiang Mai ,822663
+01-01-2020,Phichit ,45232
+01-01-2020,Nakhon Sawan ,116065
+01-01-2020,Tak ,179957
+01-01-2020,Phitsanulok ,192912
+01-01-2020,Phayao ,31544
+01-01-2020,Phetchabun ,199081
+01-01-2020,Phrae ,35523
+01-01-2020,Lampang ,64268
+01-01-2020,Lamphun ,23987
+01-01-2020,Mae Hong Son ,117691
+01-01-2020,Uttaradit ,61478
+01-01-2020,Uthai Thani ,35301
+01-01-2020,Sukhothai ,80615
+01-01-2020,Nan ,96325
+01-01-2020,Kalasin ,20430
+01-01-2020,Khon Kaen ,205657
+01-01-2020,Chaiyaphum ,70023
+01-01-2020,Nakhon Phanom ,45236
+01-01-2020,Nakhon Ratchasima ,498547
+01-01-2020,Buriram ,94359
+01-01-2020,Maha Sarakham ,37569
+01-01-2020,Mukdahan ,63536
+01-01-2020,Roi Et ,42487
+01-01-2020,Loei ,122692
+01-01-2020,Sisaket ,43025
+01-01-2020,Surin ,89530
+01-01-2020,Nong Khai ,119040
+01-01-2020,Bueng Kan ,37457
+01-01-2020,Udon Thani ,181587
+01-01-2020,Ubon Ratchathani ,135215
+01-01-2020,Sakon Nakhon ,62304
+01-01-2020,Yasothon ,14569
+01-01-2020,Amnat Charoen ,8260
+01-01-2020,Nong Bua Lamphu ,12416
+01-01-2021,Bangkok,354676
+01-01-2021,Lopburi ,19467
+01-01-2021,Phra Nakhon Si Ayutthaya ,30074
+01-01-2021,Saraburi ,29441
+01-01-2021,Chainat ,6508
+01-01-2021,Nakhon Pathom ,27769
+01-01-2021,Sing Buri ,2765
+01-01-2021,Ang Thong ,1516
+01-01-2021,Nonthaburi ,8450
+01-01-2021,Pathum Thani ,8146
+01-01-2021,Samut Prakan ,9972
+01-01-2021,Samut Sakhon ,0
+01-01-2021,Chachoengsao ,3743
+01-01-2021,Ratchaburi ,29734
+01-01-2021,Kanchanaburi ,52133
+01-01-2021,Samut Songkhram ,4607
+01-01-2021,Suphan Buri ,12983
+01-01-2021,Phetchaburi ,99682
+01-01-2021,Prachuap Khiri Khan ,76887
+01-01-2021,Chonburi ,14560
+01-01-2021,Chanthaburi ,0
+01-01-2021,Trat ,3792
+01-01-2021,Nakhon Nayok ,30124
+01-01-2021,Prachinburi ,38804
+01-01-2021,Rayong ,35201
+01-01-2021,Sa Kaeo ,16455
+01-01-2021,Phuket ,35865
+01-01-2021,Phatthalung ,25274
+01-01-2021,Trang ,21035
+01-01-2021,Ranong ,11199
+01-01-2021,Chumphon ,22204
+01-01-2021,Pattani ,7569
+01-01-2021,Yala ,19750
+01-01-2021,Nakhon Si Thammarat ,88909
+01-01-2021,Narathiwat ,10144
+01-01-2021,Krabi ,22440
+01-01-2021,Songkhla ,76275
+01-01-2021,Phang Nga ,15574
+01-01-2021,Surat Thani ,39640
+01-01-2021,Satun ,23393
+01-01-2021,Kamphaeng Phet ,11298
+01-01-2021,Chiang Rai ,85580
+01-01-2021,Chiang Mai ,169056
+01-01-2021,Phichit ,13398
+01-01-2021,Nakhon Sawan ,32834
+01-01-2021,Tak ,26915
+01-01-2021,Phitsanulok ,65846
+01-01-2021,Phayao ,9892
+01-01-2021,Phetchabun ,52899
+01-01-2021,Phrae ,7655
+01-01-2021,Lampang ,18958
+01-01-2021,Lamphun ,7492
+01-01-2021,Mae Hong Son ,24832
+01-01-2021,Uttaradit ,18221
+01-01-2021,Uthai Thani ,10877
+01-01-2021,Sukhothai ,20335
+01-01-2021,Nan ,12457
+01-01-2021,Kalasin ,9395
+01-01-2021,Khon Kaen ,69648
+01-01-2021,Chaiyaphum ,32747
+01-01-2021,Nakhon Phanom ,17401
+01-01-2021,Nakhon Ratchasima ,227743
+01-01-2021,Buriram ,52498
+01-01-2021,Maha Sarakham ,12533
+01-01-2021,Mukdahan ,15899
+01-01-2021,Roi Et ,24004
+01-01-2021,Loei ,19730
+01-01-2021,Sisaket ,18073
+01-01-2021,Surin ,37407
+01-01-2021,Nong Khai ,18767
+01-01-2021,Bueng Kan ,9087
+01-01-2021,Udon Thani ,45693
+01-01-2021,Ubon Ratchathani ,65301
+01-01-2021,Sakon Nakhon ,18650
+01-01-2021,Yasothon ,10006
+01-01-2021,Amnat Charoen ,5002
+01-01-2021,Nong Bua Lamphu ,1547
+01-01-2022,Bangkok,1009583
+01-01-2022,Lopburi ,47079
+01-09-2022,Phra Nakhon Si Ayutthaya ,62040
+01-10-2022,Saraburi ,65575
+01-01-2022,Chainat ,13936
+01-01-2022,Nakhon Pathom ,64805
+01-01-2022,Sing Buri ,11376
+01-01-2022,Ang Thong ,5603
+01-01-2022,Nonthaburi ,50944
+01-01-2022,Pathum Thani ,23507
+01-01-2022,Samut Prakan ,41974
+01-01-2022,Samut Sakhon ,17876
+01-01-2022,Chachoengsao ,21685
+01-01-2022,Ratchaburi ,72252
+01-01-2022,Kanchanaburi ,223019
+01-01-2022,Samut Songkhram ,56358
+01-01-2022,Suphan Buri ,52073
+01-01-2022,Phetchaburi ,258163
+01-01-2022,Prachuap Khiri Khan ,364053
+01-01-2022,Chonburi ,644223
+01-01-2022,Chanthaburi ,67164
+01-01-2022,Trat ,93739
+01-01-2022,Nakhon Nayok ,78747
+01-01-2022,Prachinburi ,53910
+01-01-2022,Rayong ,122400
+01-01-2022,Sa Kaeo ,24962
+01-01-2022,Phuket ,223405
+01-01-2022,Phatthalung ,33169
+01-01-2022,Trang ,46898
+01-01-2022,Ranong ,27987
+01-01-2022,Chumphon ,57247
+01-01-2022,Pattani ,11945
+01-01-2022,Yala ,47655
+01-01-2022,Nakhon Si Thammarat ,87708
+01-01-2022,Narathiwat ,14387
+01-01-2022,Krabi ,106708
+01-01-2022,Songkhla ,106962
+01-01-2022,Phang Nga ,57525
+01-01-2022,Surat Thani ,153446
+01-01-2022,Satun ,65373
+01-01-2022,Kamphaeng Phet ,31459
+01-01-2022,Chiang Rai ,312079
+01-01-2022,Chiang Mai ,467344
+01-01-2022,Phichit ,23957
+01-01-2022,Nakhon Sawan ,60620
+01-01-2022,Tak ,89556
+01-01-2022,Phitsanulok ,141208
+01-01-2022,Phayao ,32699
+01-01-2022,Phetchabun ,160971
+01-01-2022,Phrae ,44751
+01-01-2022,Lampang ,49467
+01-01-2022,Lamphun ,19870
+01-01-2022,Mae Hong Son ,96123
+01-01-2022,Uttaradit ,37996
+01-01-2022,Uthai Thani ,19617
+01-01-2022,Sukhothai ,45089
+01-01-2022,Nan ,77653
+01-01-2022,Kalasin ,18956
+01-01-2022,Khon Kaen ,140983
+01-01-2022,Chaiyaphum ,54377
+01-01-2022,Nakhon Phanom ,36671
+01-01-2022,Nakhon Ratchasima ,303535
+01-01-2022,Buriram ,113745
+01-01-2022,Maha Sarakham ,12789
+01-01-2022,Mukdahan ,30146
+01-01-2022,Roi Et ,21171
+01-01-2022,Loei ,78804
+01-01-2022,Sisaket ,25586
+01-01-2022,Surin ,48872
+01-01-2022,Nong Khai ,65972
+01-01-2022,Bueng Kan ,36733
+01-01-2022,Udon Thani ,83266
+01-01-2022,Ubon Ratchathani ,86656
+01-01-2022,Sakon Nakhon ,33934
+01-01-2022,Yasothon ,10368
+01-01-2022,Amnat Charoen ,6918
+01-01-2022,Nong Bua Lamphu ,5881
+01-01-2023,Bangkok,2440463
+01-01-2023,Kanchanaburi ,320803
+01-01-2023,Nakhon Pathom ,73725
+01-01-2023,Prachuap Khiri Khan ,536710
+01-01-2023,Phetchaburi ,343526
+01-01-2023,Ratchaburi ,98414
+01-01-2023,Samut Prakan ,80571
+01-01-2023,Samut Songkhram ,75514
+01-01-2023,Samut Sakhon ,30143
+01-01-2023,Chainat ,15723
+01-01-2023,Nonthaburi ,80761
+01-01-2023,Pathum Thani ,34221
+01-01-2023,Phra Nakhon Si Ayutthaya ,87431
+01-01-2023,Lopburi ,77379
+01-01-2023,Saraburi ,84820
+01-01-2023,Sing Buri ,14027
+01-01-2023,Suphan Buri ,105273
+01-01-2023,Ang Thong ,10762
+01-01-2023,Chanthaburi ,91719
+01-01-2023,Chachoengsao ,30736
+01-01-2023,Chonburi ,1347044
+01-01-2023,Trat ,140368
+01-01-2023,Nakhon Nayok ,86714
+01-01-2023,Prachinburi ,58964
+01-01-2023,Rayong ,233839
+01-01-2023,Sa Kaeo ,38260
+01-01-2023,Krabi ,134344
+01-01-2023,Chumphon ,92948
+01-01-2023,Nakhon Si Thammarat ,158855
+01-01-2023,Phang Nga ,65600
+01-01-2023,Phuket ,681547
+01-01-2023,Ranong ,37865
+01-01-2023,Surat Thani ,332258
+01-01-2023,Trang ,70089
+01-01-2023,Narathiwat ,28320
+01-01-2023,Pattani ,15118
+01-01-2023,Phatthalung ,41586
+01-01-2023,Yala ,81641
+01-01-2023,Songkhla ,185930
+01-01-2023,Satun ,76309
+01-01-2023,Chiang Rai ,405508
+01-01-2023,Chiang Mai ,724446
+01-01-2023,Nan ,104721
+01-01-2023,Phayao ,44578
+01-01-2023,Phrae ,50638
+01-01-2023,Mae Hong Son ,98309
+01-01-2023,Lampang ,60876
+01-01-2023,Lamphun ,24351
+01-01-2023,Kamphaeng Phet ,31772
+01-01-2023,Tak ,146624
+01-01-2023,Nakhon Sawan ,86879
+01-01-2023,Phichit ,33020
+01-01-2023,Phitsanulok ,146196
+01-01-2023,Phetchabun ,188195
+01-01-2023,Sukhothai ,47124
+01-01-2023,Uttaradit ,46951
+01-01-2023,Uthai Thani ,28011
+01-01-2023,Kalasin ,19979
+01-01-2023,Khon Kaen ,164270
+01-01-2023,Nakhon Phanom ,62425
+01-01-2023,Bueng Kan ,32938
+01-01-2023,Maha Sarakham ,27775
+01-01-2023,Loei ,103572
+01-01-2023,Sakon Nakhon ,56778
+01-01-2023,Nong Khai ,81251
+01-01-2023,Nong Bua Lamphu ,8286
+01-01-2023,Udon Thani ,142271
+01-01-2023,Chaiyaphum ,56333
+01-01-2023,Nakhon Ratchasima ,396520
+01-01-2023,Buriram ,144765
+01-01-2023,Mukdahan ,42104
+01-01-2023,Yasothon ,10527
+01-01-2023,Roi Et ,45619
+01-01-2023,Sisaket ,24872
+01-01-2023,Surin ,75991
+01-01-2023,Amnat Charoen ,6934
+01-01-2023,Ubon Ratchathani ,87474
+01-02-2019,Bangkok,3025538
+01-02-2019,Lopburi ,49385
+01-02-2019,Phra Nakhon Si Ayutthaya ,101718
+01-02-2019,Saraburi ,77528
+01-02-2019,Chainat ,25861
+01-02-2019,Nakhon Pathom ,107577
+01-02-2019,Sing Buri ,18434
+01-02-2019,Ang Thong ,17409
+01-02-2019,Nonthaburi ,88147
+01-02-2019,Pathum Thani ,47402
+01-02-2019,Samut Prakan ,102523
+01-02-2019,Samut Sakhon ,57331
+01-02-2019,Chachoengsao ,36670
+01-02-2019,Ratchaburi ,65904
+01-02-2019,Kanchanaburi ,315790
+01-02-2019,Samut Songkhram ,60077
+01-02-2019,Suphan Buri ,91004
+01-02-2019,Phetchaburi ,358668
+01-02-2019,Prachuap Khiri Khan ,345890
+01-02-2019,Chonburi ,1271425
+01-02-2019,Chanthaburi ,101232
+01-02-2019,Trat ,198785
+01-02-2019,Nakhon Nayok ,126643
+01-02-2019,Prachinburi ,91717
+01-02-2019,Rayong ,377905
+01-02-2019,Sa Kaeo ,71344
+01-02-2019,Phuket ,1370156
+01-02-2019,Phatthalung ,67001
+01-02-2019,Trang ,138665
+01-02-2019,Ranong ,87811
+01-02-2019,Chumphon ,90836
+01-02-2019,Pattani ,18467
+01-02-2019,Yala ,49200
+01-02-2019,Nakhon Si Thammarat ,201458
+01-02-2019,Narathiwat ,55708
+01-02-2019,Krabi ,457421
+01-02-2019,Songkhla ,379226
+01-02-2019,Phang Nga ,116365
+01-02-2019,Surat Thani ,468127
+01-02-2019,Satun ,78130
+01-02-2019,Kamphaeng Phet ,37426
+01-02-2019,Chiang Rai ,336276
+01-02-2019,Chiang Mai ,804684
+01-02-2019,Phichit ,42406
+01-02-2019,Nakhon Sawan ,111345
+01-02-2019,Tak ,160346
+01-02-2019,Phitsanulok ,177202
+01-02-2019,Phayao ,26710
+01-02-2019,Phetchabun ,168561
+01-02-2019,Phrae ,30830
+01-02-2019,Lampang ,55196
+01-02-2019,Lamphun ,21764
+01-02-2019,Mae Hong Son ,118024
+01-02-2019,Uttaradit ,53634
+01-02-2019,Uthai Thani ,29469
+01-02-2019,Sukhothai ,73675
+01-02-2019,Nan ,80087
+01-02-2019,Kalasin ,19801
+01-02-2019,Khon Kaen ,180982
+01-02-2019,Chaiyaphum ,52842
+01-02-2019,Nakhon Phanom ,46194
+01-02-2019,Nakhon Ratchasima ,427535
+01-02-2019,Buriram ,95097
+01-02-2019,Maha Sarakham ,36786
+01-02-2019,Mukdahan ,61872
+01-02-2019,Roi Et ,38814
+01-02-2019,Loei ,110112
+01-02-2019,Sisaket ,39741
+01-02-2019,Surin ,82398
+01-02-2019,Nong Khai ,96539
+01-02-2019,Bueng Kan ,29858
+01-02-2019,Udon Thani ,186773
+01-02-2019,Ubon Ratchathani ,118871
+01-02-2019,Sakon Nakhon ,55937
+01-02-2019,Yasothon ,14597
+01-02-2019,Amnat Charoen ,8001
+01-02-2019,Nong Bua Lamphu ,14116
+01-02-2020,Bangkok,2388329
+01-02-2020,Lopburi ,35051
+01-02-2020,Phra Nakhon Si Ayutthaya ,70417
+01-02-2020,Saraburi ,62116
+01-02-2020,Chainat ,18283
+01-02-2020,Nakhon Pathom ,96051
+01-02-2020,Sing Buri ,12417
+01-02-2020,Ang Thong ,13461
+01-02-2020,Nonthaburi ,56271
+01-02-2020,Pathum Thani ,38020
+01-02-2020,Samut Prakan ,59573
+01-02-2020,Samut Sakhon ,53604
+01-02-2020,Chachoengsao ,26152
+01-02-2020,Ratchaburi ,47897
+01-02-2020,Kanchanaburi ,247674
+01-02-2020,Samut Songkhram ,51832
+01-02-2020,Suphan Buri ,69809
+01-02-2020,Phetchaburi ,268846
+01-02-2020,Prachuap Khiri Khan ,234637
+01-02-2020,Chonburi ,583921
+01-02-2020,Chanthaburi ,95216
+01-02-2020,Trat ,136968
+01-02-2020,Nakhon Nayok ,100645
+01-02-2020,Prachinburi ,60975
+01-02-2020,Rayong ,285075
+01-02-2020,Sa Kaeo ,56015
+01-02-2020,Phuket ,853419
+01-02-2020,Phatthalung ,54688
+01-02-2020,Trang ,108572
+01-02-2020,Ranong ,77074
+01-02-2020,Chumphon ,72786
+01-02-2020,Pattani ,15457
+01-02-2020,Yala ,26959
+01-02-2020,Nakhon Si Thammarat ,153356
+01-02-2020,Narathiwat ,44755
+01-02-2020,Krabi ,333069
+01-02-2020,Songkhla ,262792
+01-02-2020,Phang Nga ,80645
+01-02-2020,Surat Thani ,363612
+01-02-2020,Satun ,62626
+01-02-2020,Kamphaeng Phet ,34780
+01-02-2020,Chiang Rai ,245632
+01-02-2020,Chiang Mai ,559458
+01-02-2020,Phichit ,38839
+01-02-2020,Nakhon Sawan ,100752
+01-02-2020,Tak ,147648
+01-02-2020,Phitsanulok ,157604
+01-02-2020,Phayao ,23868
+01-02-2020,Phetchabun ,146577
+01-02-2020,Phrae ,27037
+01-02-2020,Lampang ,51479
+01-02-2020,Lamphun ,18849
+01-02-2020,Mae Hong Son ,90999
+01-02-2020,Uttaradit ,48167
+01-02-2020,Uthai Thani ,31556
+01-02-2020,Sukhothai ,66541
+01-02-2020,Nan ,73239
+01-02-2020,Kalasin ,18427
+01-02-2020,Khon Kaen ,167450
+01-02-2020,Chaiyaphum ,40467
+01-02-2020,Nakhon Phanom ,44580
+01-02-2020,Nakhon Ratchasima ,404857
+01-02-2020,Buriram ,83002
+01-02-2020,Maha Sarakham ,27567
+01-02-2020,Mukdahan ,55621
+01-02-2020,Roi Et ,34261
+01-02-2020,Loei ,95837
+01-02-2020,Sisaket ,35864
+01-02-2020,Surin ,70264
+01-02-2020,Nong Khai ,87202
+01-02-2020,Bueng Kan ,25036
+01-02-2020,Udon Thani ,156229
+01-02-2020,Ubon Ratchathani ,105265
+01-02-2020,Sakon Nakhon ,51270
+01-02-2020,Yasothon ,13159
+01-02-2020,Amnat Charoen ,7510
+01-02-2020,Nong Bua Lamphu ,11792
+01-02-2021,Bangkok,484142
+01-02-2021,Lopburi ,29999
+01-02-2021,Phra Nakhon Si Ayutthaya ,42183
+01-02-2021,Saraburi ,40942
+01-02-2021,Chainat ,13303
+01-02-2021,Nakhon Pathom ,50136
+01-02-2021,Sing Buri ,6400
+01-02-2021,Ang Thong ,4619
+01-02-2021,Nonthaburi ,12609
+01-02-2021,Pathum Thani ,12583
+01-02-2021,Samut Prakan ,17372
+01-02-2021,Samut Sakhon ,2190
+01-02-2021,Chachoengsao ,7650
+01-02-2021,Ratchaburi ,38928
+01-02-2021,Kanchanaburi ,122167
+01-02-2021,Samut Songkhram ,15673
+01-02-2021,Suphan Buri ,29021
+01-02-2021,Phetchaburi ,188659
+01-02-2021,Prachuap Khiri Khan ,207590
+01-02-2021,Chonburi ,49449
+01-02-2021,Chanthaburi ,48190
+01-02-2021,Trat ,55347
+01-02-2021,Nakhon Nayok ,30376
+01-02-2021,Prachinburi ,39290
+01-02-2021,Rayong ,55721
+01-02-2021,Sa Kaeo ,15230
+01-02-2021,Phuket ,50502
+01-02-2021,Phatthalung ,36080
+01-02-2021,Trang ,34229
+01-02-2021,Ranong ,16296
+01-02-2021,Chumphon ,34230
+01-02-2021,Pattani ,8917
+01-02-2021,Yala ,36966
+01-02-2021,Nakhon Si Thammarat ,114775
+01-02-2021,Narathiwat ,17159
+01-02-2021,Krabi ,27499
+01-02-2021,Songkhla ,56131
+01-02-2021,Phang Nga ,18116
+01-02-2021,Surat Thani ,47902
+01-02-2021,Satun ,41709
+01-02-2021,Kamphaeng Phet ,12320
+01-02-2021,Chiang Rai ,87672
+01-02-2021,Chiang Mai ,208372
+01-02-2021,Phichit ,18713
+01-02-2021,Nakhon Sawan ,48845
+01-02-2021,Tak ,31873
+01-02-2021,Phitsanulok ,69183
+01-02-2021,Phayao ,11179
+01-02-2021,Phetchabun ,75011
+01-02-2021,Phrae ,20153
+01-02-2021,Lampang ,23272
+01-02-2021,Lamphun ,11389
+01-02-2021,Mae Hong Son ,38873
+01-02-2021,Uttaradit ,26259
+01-02-2021,Uthai Thani ,15503
+01-02-2021,Sukhothai ,20845
+01-02-2021,Nan ,36069
+01-02-2021,Kalasin ,13760
+01-02-2021,Khon Kaen ,82871
+01-02-2021,Chaiyaphum ,37615
+01-02-2021,Nakhon Phanom ,21941
+01-02-2021,Nakhon Ratchasima ,286262
+01-02-2021,Buriram ,59337
+01-02-2021,Maha Sarakham ,16748
+01-02-2021,Mukdahan ,26480
+01-02-2021,Roi Et ,25065
+01-02-2021,Loei ,40118
+01-02-2021,Sisaket ,19463
+01-02-2021,Surin ,46138
+01-02-2021,Nong Khai ,38777
+01-02-2021,Bueng Kan ,13484
+01-02-2021,Udon Thani ,65395
+01-02-2021,Ubon Ratchathani ,66768
+01-02-2021,Sakon Nakhon ,35914
+01-02-2021,Yasothon ,9811
+01-02-2021,Amnat Charoen ,5283
+01-02-2021,Nong Bua Lamphu ,2511
+01-02-2022,Bangkok,1044609
+01-02-2022,Lopburi ,58128
+01-02-2022,Phra Nakhon Si Ayutthaya ,67617
+01-02-2022,Saraburi ,64704
+01-02-2022,Chainat ,14216
+01-02-2022,Nakhon Pathom ,59051
+01-02-2022,Sing Buri ,12825
+01-02-2022,Ang Thong ,6080
+01-02-2022,Nonthaburi ,45688
+01-02-2022,Pathum Thani ,20294
+01-02-2022,Samut Prakan ,47039
+01-02-2022,Samut Sakhon ,16011
+01-02-2022,Chachoengsao ,22855
+01-02-2022,Ratchaburi ,68271
+01-02-2022,Kanchanaburi ,211948
+01-02-2022,Samut Songkhram ,53648
+01-02-2022,Suphan Buri ,51048
+01-02-2022,Phetchaburi ,278172
+01-02-2022,Prachuap Khiri Khan ,373183
+01-02-2022,Chonburi ,610252
+01-02-2022,Chanthaburi ,76573
+01-02-2022,Trat ,90813
+01-02-2022,Nakhon Nayok ,73692
+01-02-2022,Prachinburi ,49930
+01-02-2022,Rayong ,116771
+01-02-2022,Sa Kaeo ,30632
+01-02-2022,Phuket ,214002
+01-02-2022,Phatthalung ,18795
+01-02-2022,Trang ,57927
+01-02-2022,Ranong ,24745
+01-02-2022,Chumphon ,60127
+01-02-2022,Pattani ,13413
+01-02-2022,Yala ,53238
+01-02-2022,Nakhon Si Thammarat ,77861
+01-02-2022,Narathiwat ,17895
+01-02-2022,Krabi ,73468
+01-02-2022,Songkhla ,85488
+01-02-2022,Phang Nga ,41856
+01-02-2022,Surat Thani ,166484
+01-02-2022,Satun ,70478
+01-02-2022,Kamphaeng Phet ,32186
+01-02-2022,Chiang Rai ,333128
+01-02-2022,Chiang Mai ,482851
+01-02-2022,Phichit ,24669
+01-02-2022,Nakhon Sawan ,61329
+01-02-2022,Tak ,91902
+01-02-2022,Phitsanulok ,114358
+01-02-2022,Phayao ,36534
+01-02-2022,Phetchabun ,154485
+01-02-2022,Phrae ,39469
+01-02-2022,Lampang ,39822
+01-02-2022,Lamphun ,15047
+01-02-2022,Mae Hong Son ,76310
+01-02-2022,Uttaradit ,38125
+01-02-2022,Uthai Thani ,20837
+01-02-2022,Sukhothai ,36444
+01-02-2022,Nan ,81108
+01-02-2022,Kalasin ,17238
+01-02-2022,Khon Kaen ,119071
+01-02-2022,Chaiyaphum ,48096
+01-02-2022,Nakhon Phanom ,38944
+01-02-2022,Nakhon Ratchasima ,298018
+01-02-2022,Buriram ,97166
+01-02-2022,Maha Sarakham ,16781
+01-02-2022,Mukdahan ,31768
+01-02-2022,Roi Et ,19038
+01-02-2022,Loei ,75563
+01-02-2022,Sisaket ,27821
+01-02-2022,Surin ,40668
+01-02-2022,Nong Khai ,51510
+01-02-2022,Bueng Kan ,31300
+01-02-2022,Udon Thani ,95340
+01-02-2022,Ubon Ratchathani ,69782
+01-02-2022,Sakon Nakhon ,39216
+01-02-2022,Yasothon ,8820
+01-02-2022,Amnat Charoen ,5244
+01-02-2022,Nong Bua Lamphu ,5953
+01-02-2023,Bangkok,2427838
+01-02-2023,Kanchanaburi ,298484
+01-02-2023,Nakhon Pathom ,68431
+01-02-2023,Prachuap Khiri Khan ,484460
+01-02-2023,Phetchaburi ,319600
+01-02-2023,Ratchaburi ,68884
+01-02-2023,Samut Prakan ,73380
+01-02-2023,Samut Songkhram ,59707
+01-02-2023,Samut Sakhon ,26505
+01-02-2023,Chainat ,17049
+01-02-2023,Nonthaburi ,74541
+01-02-2023,Pathum Thani ,33672
+01-02-2023,Phra Nakhon Si Ayutthaya ,80566
+01-02-2023,Lopburi ,43697
+01-02-2023,Saraburi ,76562
+01-02-2023,Sing Buri ,13242
+01-02-2023,Suphan Buri ,88229
+01-02-2023,Ang Thong ,13167
+01-02-2023,Chanthaburi ,96711
+01-02-2023,Chachoengsao ,28121
+01-02-2023,Chonburi ,1195173
+01-02-2023,Trat ,124282
+01-02-2023,Nakhon Nayok ,84037
+01-02-2023,Prachinburi ,55057
+01-02-2023,Rayong ,228041
+01-02-2023,Sa Kaeo ,36084
+01-02-2023,Krabi ,152480
+01-02-2023,Chumphon ,97457
+01-02-2023,Nakhon Si Thammarat ,166307
+01-02-2023,Phang Nga ,61794
+01-02-2023,Phuket ,773321
+01-02-2023,Ranong ,40081
+01-02-2023,Surat Thani ,349766
+01-02-2023,Trang ,73095
+01-02-2023,Narathiwat ,30238
+01-02-2023,Pattani ,16263
+01-02-2023,Phatthalung ,39524
+01-02-2023,Yala ,89915
+01-02-2023,Songkhla ,176046
+01-02-2023,Satun ,72416
+01-02-2023,Chiang Rai ,332976
+01-02-2023,Chiang Mai ,626720
+01-02-2023,Nan ,118965
+01-02-2023,Phayao ,45035
+01-02-2023,Phrae ,47221
+01-02-2023,Mae Hong Son ,91251
+01-02-2023,Lampang ,52194
+01-02-2023,Lamphun ,20293
+01-02-2023,Kamphaeng Phet ,32941
+01-02-2023,Tak ,137389
+01-02-2023,Nakhon Sawan ,82503
+01-02-2023,Phichit ,31708
+01-02-2023,Phitsanulok ,131376
+01-02-2023,Phetchabun ,191571
+01-02-2023,Sukhothai ,46381
+01-02-2023,Uttaradit ,46461
+01-02-2023,Uthai Thani ,27584
+01-02-2023,Kalasin ,25610
+01-02-2023,Khon Kaen ,159207
+01-02-2023,Nakhon Phanom ,65810
+01-02-2023,Bueng Kan ,31029
+01-02-2023,Maha Sarakham ,25011
+01-02-2023,Loei ,100440
+01-02-2023,Sakon Nakhon ,55532
+01-02-2023,Nong Khai ,83983
+01-02-2023,Nong Bua Lamphu ,7684
+01-02-2023,Udon Thani ,129989
+01-02-2023,Chaiyaphum ,53330
+01-02-2023,Nakhon Ratchasima ,359110
+01-02-2023,Buriram ,131056
+01-02-2023,Mukdahan ,40096
+01-02-2023,Yasothon ,10171
+01-02-2023,Roi Et ,32125
+01-02-2023,Sisaket ,21548
+01-02-2023,Surin ,71567
+01-02-2023,Amnat Charoen ,6589
+01-02-2023,Ubon Ratchathani ,83749
+01-03-2019,Bangkok,2887616
+01-03-2019,Lopburi ,49165
+01-03-2019,Phra Nakhon Si Ayutthaya ,107843
+01-03-2019,Saraburi ,83226
+01-03-2019,Chainat ,27089
+01-03-2019,Nakhon Pathom ,110746
+01-03-2019,Sing Buri ,19292
+01-03-2019,Ang Thong ,18721
+01-03-2019,Nonthaburi ,87512
+01-03-2019,Pathum Thani ,50810
+01-03-2019,Samut Prakan ,109200
+01-03-2019,Samut Sakhon ,56681
+01-03-2019,Chachoengsao ,38242
+01-03-2019,Ratchaburi ,58254
+01-03-2019,Kanchanaburi ,295348
+01-03-2019,Samut Songkhram ,57907
+01-03-2019,Suphan Buri ,92857
+01-03-2019,Phetchaburi ,317757
+01-03-2019,Prachuap Khiri Khan ,364411
+01-03-2019,Chonburi ,1310969
+01-03-2019,Chanthaburi ,120696
+01-03-2019,Trat ,203275
+01-03-2019,Nakhon Nayok ,137325
+01-03-2019,Prachinburi ,92481
+01-03-2019,Rayong ,389729
+01-03-2019,Sa Kaeo ,73040
+01-03-2019,Phuket ,1483133
+01-03-2019,Phatthalung ,71762
+01-03-2019,Trang ,134273
+01-03-2019,Ranong ,94522
+01-03-2019,Chumphon ,96986
+01-03-2019,Pattani ,19957
+01-03-2019,Yala ,46601
+01-03-2019,Nakhon Si Thammarat ,221618
+01-03-2019,Narathiwat ,58297
+01-03-2019,Krabi ,418573
+01-03-2019,Songkhla ,394974
+01-03-2019,Phang Nga ,118568
+01-03-2019,Surat Thani ,481231
+01-03-2019,Satun ,92118
+01-03-2019,Kamphaeng Phet ,40635
+01-03-2019,Chiang Rai ,258746
+01-03-2019,Chiang Mai ,683748
+01-03-2019,Phichit ,43894
+01-03-2019,Nakhon Sawan ,103725
+01-03-2019,Tak ,156454
+01-03-2019,Phitsanulok ,168752
+01-03-2019,Phayao ,23848
+01-03-2019,Phetchabun ,159094
+01-03-2019,Phrae ,29944
+01-03-2019,Lampang ,55552
+01-03-2019,Lamphun ,23632
+01-03-2019,Mae Hong Son ,85512
+01-03-2019,Uttaradit ,59918
+01-03-2019,Uthai Thani ,30117
+01-03-2019,Sukhothai ,75864
+01-03-2019,Nan ,76875
+01-03-2019,Kalasin ,22860
+01-03-2019,Khon Kaen ,226450
+01-03-2019,Chaiyaphum ,57589
+01-03-2019,Nakhon Phanom ,41726
+01-03-2019,Nakhon Ratchasima ,436561
+01-03-2019,Buriram ,111294
+01-03-2019,Maha Sarakham ,40304
+01-03-2019,Mukdahan ,65556
+01-03-2019,Roi Et ,33357
+01-03-2019,Loei ,104187
+01-03-2019,Sisaket ,44457
+01-03-2019,Surin ,92390
+01-03-2019,Nong Khai ,96921
+01-03-2019,Bueng Kan ,33727
+01-03-2019,Udon Thani ,188534
+01-03-2019,Ubon Ratchathani ,131115
+01-03-2019,Sakon Nakhon ,58042
+01-03-2019,Yasothon ,15786
+01-03-2019,Amnat Charoen ,9658
+01-03-2019,Nong Bua Lamphu ,13115
+01-03-2020,Bangkok,601577
+01-03-2020,Lopburi ,14581
+01-03-2020,Phra Nakhon Si Ayutthaya ,29532
+01-03-2020,Saraburi ,16991
+01-03-2020,Chainat ,3363
+01-03-2020,Nakhon Pathom ,32404
+01-03-2020,Sing Buri ,4079
+01-03-2020,Ang Thong ,2025
+01-03-2020,Nonthaburi ,8526
+01-03-2020,Pathum Thani ,5466
+01-03-2020,Samut Prakan ,20017
+01-03-2020,Samut Sakhon ,10745
+01-03-2020,Chachoengsao ,5996
+01-03-2020,Ratchaburi ,31770
+01-03-2020,Kanchanaburi ,144292
+01-03-2020,Samut Songkhram ,28963
+01-03-2020,Suphan Buri ,42559
+01-03-2020,Phetchaburi ,162949
+01-03-2020,Prachuap Khiri Khan ,126196
+01-03-2020,Chonburi ,395701
+01-03-2020,Chanthaburi ,41984
+01-03-2020,Trat ,77163
+01-03-2020,Nakhon Nayok ,71912
+01-03-2020,Prachinburi ,42395
+01-03-2020,Rayong ,167636
+01-03-2020,Sa Kaeo ,36480
+01-03-2020,Phuket ,354012
+01-03-2020,Phatthalung ,20396
+01-03-2020,Trang ,40328
+01-03-2020,Ranong ,24758
+01-03-2020,Chumphon ,33032
+01-03-2020,Pattani ,9582
+01-03-2020,Yala ,22779
+01-03-2020,Nakhon Si Thammarat ,76650
+01-03-2020,Narathiwat ,20614
+01-03-2020,Krabi ,112978
+01-03-2020,Songkhla ,110982
+01-03-2020,Phang Nga ,31591
+01-03-2020,Surat Thani ,119803
+01-03-2020,Satun ,23815
+01-03-2020,Kamphaeng Phet ,19848
+01-03-2020,Chiang Rai ,170335
+01-03-2020,Chiang Mai ,355162
+01-03-2020,Phichit ,17828
+01-03-2020,Nakhon Sawan ,49958
+01-03-2020,Tak ,93563
+01-03-2020,Phitsanulok ,112834
+01-03-2020,Phayao ,15090
+01-03-2020,Phetchabun ,104893
+01-03-2020,Phrae ,15969
+01-03-2020,Lampang ,33368
+01-03-2020,Lamphun ,12423
+01-03-2020,Mae Hong Son ,34613
+01-03-2020,Uttaradit ,18557
+01-03-2020,Uthai Thani ,16303
+01-03-2020,Sukhothai ,26484
+01-03-2020,Nan ,38213
+01-03-2020,Kalasin ,4112
+01-03-2020,Khon Kaen ,60261
+01-03-2020,Chaiyaphum ,12328
+01-03-2020,Nakhon Phanom ,12044
+01-03-2020,Nakhon Ratchasima ,133757
+01-03-2020,Buriram ,15274
+01-03-2020,Maha Sarakham ,6528
+01-03-2020,Mukdahan ,16479
+01-03-2020,Roi Et ,8418
+01-03-2020,Loei ,14048
+01-03-2020,Sisaket ,9395
+01-03-2020,Surin ,19765
+01-03-2020,Nong Khai ,16697
+01-03-2020,Bueng Kan ,7461
+01-03-2020,Udon Thani ,25455
+01-03-2020,Ubon Ratchathani ,30248
+01-03-2020,Sakon Nakhon ,14135
+01-03-2020,Yasothon ,2712
+01-03-2020,Amnat Charoen ,1295
+01-03-2020,Nong Bua Lamphu ,1445
+01-03-2021,Bangkok,553790
+01-03-2021,Lopburi ,32420
+01-03-2021,Phra Nakhon Si Ayutthaya ,46175
+01-03-2021,Saraburi ,47434
+01-03-2021,Chainat ,14756
+01-03-2021,Nakhon Pathom ,55745
+01-03-2021,Sing Buri ,7062
+01-03-2021,Ang Thong ,6545
+01-03-2021,Nonthaburi ,12079
+01-03-2021,Pathum Thani ,11664
+01-03-2021,Samut Prakan ,19098
+01-03-2021,Samut Sakhon ,2849
+01-03-2021,Chachoengsao ,8038
+01-03-2021,Ratchaburi ,60452
+01-03-2021,Kanchanaburi ,142877
+01-03-2021,Samut Songkhram ,25970
+01-03-2021,Suphan Buri ,52155
+01-03-2021,Phetchaburi ,255248
+01-03-2021,Prachuap Khiri Khan ,225579
+01-03-2021,Chonburi ,89848
+01-03-2021,Chanthaburi ,81769
+01-03-2021,Trat ,75150
+01-03-2021,Nakhon Nayok ,36042
+01-03-2021,Prachinburi ,47379
+01-03-2021,Rayong ,69973
+01-03-2021,Sa Kaeo ,17874
+01-03-2021,Phuket ,121412
+01-03-2021,Phatthalung ,40596
+01-03-2021,Trang ,41267
+01-03-2021,Ranong ,26496
+01-03-2021,Chumphon ,43938
+01-03-2021,Pattani ,15666
+01-03-2021,Yala ,56560
+01-03-2021,Nakhon Si Thammarat ,133068
+01-03-2021,Narathiwat ,18525
+01-03-2021,Krabi ,45238
+01-03-2021,Songkhla ,84367
+01-03-2021,Phang Nga ,40255
+01-03-2021,Surat Thani ,60906
+01-03-2021,Satun ,61367
+01-03-2021,Kamphaeng Phet ,20158
+01-03-2021,Chiang Rai ,98200
+01-03-2021,Chiang Mai ,215872
+01-03-2021,Phichit ,21622
+01-03-2021,Nakhon Sawan ,55399
+01-03-2021,Tak ,40150
+01-03-2021,Phitsanulok ,76306
+01-03-2021,Phayao ,14072
+01-03-2021,Phetchabun ,80139
+01-03-2021,Phrae ,24816
+01-03-2021,Lampang ,28564
+01-03-2021,Lamphun ,13025
+01-03-2021,Mae Hong Son ,16637
+01-03-2021,Uttaradit ,28730
+01-03-2021,Uthai Thani ,21291
+01-03-2021,Sukhothai ,32264
+01-03-2021,Nan ,47639
+01-03-2021,Kalasin ,15424
+01-03-2021,Khon Kaen ,111100
+01-03-2021,Chaiyaphum ,47670
+01-03-2021,Nakhon Phanom ,23724
+01-03-2021,Nakhon Ratchasima ,295870
+01-03-2021,Buriram ,90706
+01-03-2021,Maha Sarakham ,20090
+01-03-2021,Mukdahan ,23969
+01-03-2021,Roi Et ,30798
+01-03-2021,Loei ,46029
+01-03-2021,Sisaket ,24290
+01-03-2021,Surin ,51294
+01-03-2021,Nong Khai ,54755
+01-03-2021,Bueng Kan ,19342
+01-03-2021,Udon Thani ,98916
+01-03-2021,Ubon Ratchathani ,72780
+01-03-2021,Sakon Nakhon ,37649
+01-03-2021,Yasothon ,9889
+01-03-2021,Amnat Charoen ,4762
+01-03-2021,Nong Bua Lamphu ,6657
+01-03-2022,Bangkok,1114806
+01-03-2022,Lopburi ,58801
+01-03-2022,Phra Nakhon Si Ayutthaya ,66003
+01-03-2022,Saraburi ,65767
+01-03-2022,Chainat ,15586
+01-03-2022,Nakhon Pathom ,63587
+01-03-2022,Sing Buri ,13273
+01-03-2022,Ang Thong ,6882
+01-03-2022,Nonthaburi ,47455
+01-03-2022,Pathum Thani ,21242
+01-03-2022,Samut Prakan ,44928
+01-03-2022,Samut Sakhon ,17262
+01-03-2022,Chachoengsao ,22017
+01-03-2022,Ratchaburi ,63293
+01-03-2022,Kanchanaburi ,222043
+01-03-2022,Samut Songkhram ,52844
+01-03-2022,Suphan Buri ,54027
+01-03-2022,Phetchaburi ,303196
+01-03-2022,Prachuap Khiri Khan ,383479
+01-03-2022,Chonburi ,652090
+01-03-2022,Chanthaburi ,76026
+01-03-2022,Trat ,103941
+01-03-2022,Nakhon Nayok ,68549
+01-03-2022,Prachinburi ,48510
+01-03-2022,Rayong ,126386
+01-03-2022,Sa Kaeo ,30171
+01-03-2022,Phuket ,230261
+01-03-2022,Phatthalung ,19678
+01-03-2022,Trang ,53553
+01-03-2022,Ranong ,26635
+01-03-2022,Chumphon ,64223
+01-03-2022,Pattani ,12894
+01-03-2022,Yala ,52196
+01-03-2022,Nakhon Si Thammarat ,81685
+01-03-2022,Narathiwat ,18717
+01-03-2022,Krabi ,79523
+01-03-2022,Songkhla ,88983
+01-03-2022,Phang Nga ,43165
+01-03-2022,Surat Thani ,186835
+01-03-2022,Satun ,74815
+01-03-2022,Kamphaeng Phet ,30762
+01-03-2022,Chiang Rai ,293186
+01-03-2022,Chiang Mai ,415914
+01-03-2022,Phichit ,25635
+01-03-2022,Nakhon Sawan ,66219
+01-03-2022,Tak ,88524
+01-03-2022,Phitsanulok ,108434
+01-03-2022,Phayao ,34282
+01-03-2022,Phetchabun ,128621
+01-03-2022,Phrae ,35031
+01-03-2022,Lampang ,38027
+01-03-2022,Lamphun ,14705
+01-03-2022,Mae Hong Son ,70163
+01-03-2022,Uttaradit ,35810
+01-03-2022,Uthai Thani ,23690
+01-03-2022,Sukhothai ,38185
+01-03-2022,Nan ,77918
+01-03-2022,Kalasin ,17855
+01-03-2022,Khon Kaen ,125832
+01-03-2022,Chaiyaphum ,51656
+01-03-2022,Nakhon Phanom ,41813
+01-03-2022,Nakhon Ratchasima ,286543
+01-03-2022,Buriram ,104670
+01-03-2022,Maha Sarakham ,18456
+01-03-2022,Mukdahan ,34108
+01-03-2022,Roi Et ,20356
+01-03-2022,Loei ,75636
+01-03-2022,Sisaket ,30936
+01-03-2022,Surin ,45984
+01-03-2022,Nong Khai ,56387
+01-03-2022,Bueng Kan ,28646
+01-03-2022,Udon Thani ,91327
+01-03-2022,Ubon Ratchathani ,75508
+01-03-2022,Sakon Nakhon ,40723
+01-03-2022,Yasothon ,9403
+01-03-2022,Amnat Charoen ,4884
+01-03-2022,Nong Bua Lamphu ,6075
+01-04-2019,Bangkok,3239883
+01-04-2019,Lopburi ,46665
+01-04-2019,Phra Nakhon Si Ayutthaya ,91330
+01-04-2019,Saraburi ,68198
+01-04-2019,Chainat ,26723
+01-04-2019,Nakhon Pathom ,112319
+01-04-2019,Sing Buri ,17297
+01-04-2019,Ang Thong ,18524
+01-04-2019,Nonthaburi ,85135
+01-04-2019,Pathum Thani ,43468
+01-04-2019,Samut Prakan ,100981
+01-04-2019,Samut Sakhon ,62191
+01-04-2019,Chachoengsao ,43541
+01-04-2019,Ratchaburi ,84769
+01-04-2019,Kanchanaburi ,258308
+01-04-2019,Samut Songkhram ,53884
+01-04-2019,Suphan Buri ,90379
+01-04-2019,Phetchaburi ,334555
+01-04-2019,Prachuap Khiri Khan ,367631
+01-04-2019,Chonburi ,1435954
+01-04-2019,Chanthaburi ,159693
+01-04-2019,Trat ,188320
+01-04-2019,Nakhon Nayok ,146607
+01-04-2019,Prachinburi ,99003
+01-04-2019,Rayong ,461325
+01-04-2019,Sa Kaeo ,68332
+01-04-2019,Phuket ,1153120
+01-04-2019,Phatthalung ,74472
+01-04-2019,Trang ,112250
+01-04-2019,Ranong ,68765
+01-04-2019,Chumphon ,117864
+01-04-2019,Pattani ,26659
+01-04-2019,Yala ,59371
+01-04-2019,Nakhon Si Thammarat ,250183
+01-04-2019,Narathiwat ,65250
+01-04-2019,Krabi ,387910
+01-04-2019,Songkhla ,526794
+01-04-2019,Phang Nga ,91504
+01-04-2019,Surat Thani ,443024
+01-04-2019,Satun ,74855
+01-04-2019,Kamphaeng Phet ,35532
+01-04-2019,Chiang Rai ,226714
+01-04-2019,Chiang Mai ,668337
+01-04-2019,Phichit ,30320
+01-04-2019,Nakhon Sawan ,80993
+01-04-2019,Tak ,157460
+01-04-2019,Phitsanulok ,159682
+01-04-2019,Phayao ,20183
+01-04-2019,Phetchabun ,155278
+01-04-2019,Phrae ,25665
+01-04-2019,Lampang ,53293
+01-04-2019,Lamphun ,22924
+01-04-2019,Mae Hong Son ,61280
+01-04-2019,Uttaradit ,55792
+01-04-2019,Uthai Thani ,31408
+01-04-2019,Sukhothai ,78237
+01-04-2019,Nan ,56484
+01-04-2019,Kalasin ,21592
+01-04-2019,Khon Kaen ,215573
+01-04-2019,Chaiyaphum ,65709
+01-04-2019,Nakhon Phanom ,38295
+01-04-2019,Nakhon Ratchasima ,452672
+01-04-2019,Buriram ,103025
+01-04-2019,Maha Sarakham ,37853
+01-04-2019,Mukdahan ,54188
+01-04-2019,Roi Et ,36734
+01-04-2019,Loei ,101975
+01-04-2019,Sisaket ,27120
+01-04-2019,Surin ,76572
+01-04-2019,Nong Khai ,91186
+01-04-2019,Bueng Kan ,22547
+01-04-2019,Udon Thani ,188488
+01-04-2019,Ubon Ratchathani ,117663
+01-04-2019,Sakon Nakhon ,66677
+01-04-2019,Yasothon ,16258
+01-04-2019,Amnat Charoen ,7762
+01-04-2019,Nong Bua Lamphu ,10580
+01-04-2020,Bangkok,252452
+01-04-2020,Lopburi ,40
+01-04-2020,Phra Nakhon Si Ayutthaya ,18
+01-04-2020,Saraburi ,416
+01-04-2020,Chainat ,0
+01-04-2020,Nakhon Pathom ,637
+01-04-2020,Sing Buri ,81
+01-04-2020,Ang Thong ,0
+01-04-2020,Nonthaburi ,0
+01-04-2020,Pathum Thani ,163
+01-04-2020,Samut Prakan ,0
+01-04-2020,Samut Sakhon ,289
+01-04-2020,Chachoengsao ,0
+01-04-2020,Ratchaburi ,1726
+01-04-2020,Kanchanaburi ,0
+01-04-2020,Samut Songkhram ,8
+01-04-2020,Suphan Buri ,0
+01-04-2020,Phetchaburi ,109
+01-04-2020,Prachuap Khiri Khan ,419
+01-04-2020,Chonburi ,10275
+01-04-2020,Chanthaburi ,0
+01-04-2020,Trat ,592
+01-04-2020,Nakhon Nayok ,0
+01-04-2020,Prachinburi ,20
+01-04-2020,Rayong ,0
+01-04-2020,Sa Kaeo ,0
+01-04-2020,Phuket ,4281
+01-04-2020,Phatthalung ,154
+01-04-2020,Trang ,252
+01-04-2020,Ranong ,316
+01-04-2020,Chumphon ,74
+01-04-2020,Pattani ,35
+01-04-2020,Yala ,56
+01-04-2020,Nakhon Si Thammarat ,152
+01-04-2020,Narathiwat ,25
+01-04-2020,Krabi ,391
+01-04-2020,Songkhla ,528
+01-04-2020,Phang Nga ,1479
+01-04-2020,Surat Thani ,10741
+01-04-2020,Satun ,84
+01-04-2020,Kamphaeng Phet ,589
+01-04-2020,Chiang Rai ,2113
+01-04-2020,Chiang Mai ,3523
+01-04-2020,Phichit ,17
+01-04-2020,Nakhon Sawan ,1893
+01-04-2020,Tak ,2156
+01-04-2020,Phitsanulok ,2084
+01-04-2020,Phayao ,10
+01-04-2020,Phetchabun ,6
+01-04-2020,Phrae ,328
+01-04-2020,Lampang ,1493
+01-04-2020,Lamphun ,408
+01-04-2020,Mae Hong Son ,1162
+01-04-2020,Uttaradit ,873
+01-04-2020,Uthai Thani ,0
+01-04-2020,Sukhothai ,369
+01-04-2020,Nan ,0
+01-04-2020,Kalasin ,38
+01-04-2020,Khon Kaen ,245
+01-04-2020,Chaiyaphum ,67
+01-04-2020,Nakhon Phanom ,143
+01-04-2020,Nakhon Ratchasima ,280
+01-04-2020,Buriram ,117
+01-04-2020,Maha Sarakham ,0
+01-04-2020,Mukdahan ,114
+01-04-2020,Roi Et ,26
+01-04-2020,Loei ,0
+01-04-2020,Sisaket ,40
+01-04-2020,Surin ,0
+01-04-2020,Nong Khai ,36
+01-04-2020,Bueng Kan ,0
+01-04-2020,Udon Thani ,0
+01-04-2020,Ubon Ratchathani ,98
+01-04-2020,Sakon Nakhon ,70
+01-04-2020,Yasothon ,0
+01-04-2020,Amnat Charoen ,11
+01-04-2020,Nong Bua Lamphu ,0
+01-04-2021,Bangkok,365605
+01-04-2021,Lopburi ,11244
+01-04-2021,Phra Nakhon Si Ayutthaya ,23043
+01-04-2021,Saraburi ,26737
+01-04-2021,Chainat ,5856
+01-04-2021,Nakhon Pathom ,25328
+01-04-2021,Sing Buri ,2858
+01-04-2021,Ang Thong ,3358
+01-04-2021,Nonthaburi ,5158
+01-04-2021,Pathum Thani ,5251
+01-04-2021,Samut Prakan ,6824
+01-04-2021,Samut Sakhon ,2182
+01-04-2021,Chachoengsao ,3693
+01-04-2021,Ratchaburi ,22266
+01-04-2021,Kanchanaburi ,82703
+01-04-2021,Samut Songkhram ,19762
+01-04-2021,Suphan Buri ,16690
+01-04-2021,Phetchaburi ,166685
+01-04-2021,Prachuap Khiri Khan ,186276
+01-04-2021,Chonburi ,84428
+01-04-2021,Chanthaburi ,87520
+01-04-2021,Trat ,116677
+01-04-2021,Nakhon Nayok ,35350
+01-04-2021,Prachinburi ,35050
+01-04-2021,Rayong ,70386
+01-04-2021,Sa Kaeo ,8829
+01-04-2021,Phuket ,147051
+01-04-2021,Phatthalung ,16809
+01-04-2021,Trang ,31449
+01-04-2021,Ranong ,41678
+01-04-2021,Chumphon ,47162
+01-04-2021,Pattani ,9628
+01-04-2021,Yala ,25310
+01-04-2021,Nakhon Si Thammarat ,73990
+01-04-2021,Narathiwat ,10819
+01-04-2021,Krabi ,73038
+01-04-2021,Songkhla ,45818
+01-04-2021,Phang Nga ,43419
+01-04-2021,Surat Thani ,47781
+01-04-2021,Satun ,36470
+01-04-2021,Kamphaeng Phet ,5925
+01-04-2021,Chiang Rai ,56829
+01-04-2021,Chiang Mai ,98238
+01-04-2021,Phichit ,6953
+01-04-2021,Nakhon Sawan ,19825
+01-04-2021,Tak ,29862
+01-04-2021,Phitsanulok ,62527
+01-04-2021,Phayao ,7810
+01-04-2021,Phetchabun ,59892
+01-04-2021,Phrae ,9646
+01-04-2021,Lampang ,12076
+01-04-2021,Lamphun ,4092
+01-04-2021,Mae Hong Son ,7603
+01-04-2021,Uttaradit ,14132
+01-04-2021,Uthai Thani ,4869
+01-04-2021,Sukhothai ,14489
+01-04-2021,Nan ,13549
+01-04-2021,Kalasin ,4172
+01-04-2021,Khon Kaen ,31782
+01-04-2021,Chaiyaphum ,26881
+01-04-2021,Nakhon Phanom ,9678
+01-04-2021,Nakhon Ratchasima ,192003
+01-04-2021,Buriram ,17364
+01-04-2021,Maha Sarakham ,6509
+01-04-2021,Mukdahan ,7922
+01-04-2021,Roi Et ,7673
+01-04-2021,Loei ,11290
+01-04-2021,Sisaket ,5576
+01-04-2021,Surin ,18230
+01-04-2021,Nong Khai ,8934
+01-04-2021,Bueng Kan ,2157
+01-04-2021,Udon Thani ,16592
+01-04-2021,Ubon Ratchathani ,54768
+01-04-2021,Sakon Nakhon ,16069
+01-04-2021,Yasothon ,8228
+01-04-2021,Amnat Charoen ,2653
+01-04-2021,Nong Bua Lamphu ,1686
+01-04-2022,Bangkok,1188983
+01-04-2022,Lopburi ,63311
+01-04-2022,Phra Nakhon Si Ayutthaya ,72343
+01-04-2022,Saraburi ,72870
+01-04-2022,Chainat ,16146
+01-04-2022,Nakhon Pathom ,66896
+01-04-2022,Sing Buri ,14007
+01-04-2022,Ang Thong ,7288
+01-04-2022,Nonthaburi ,49921
+01-04-2022,Pathum Thani ,22620
+01-04-2022,Samut Prakan ,47242
+01-04-2022,Samut Sakhon ,18017
+01-04-2022,Chachoengsao ,23766
+01-04-2022,Ratchaburi ,71668
+01-04-2022,Kanchanaburi ,235975
+01-04-2022,Samut Songkhram ,59193
+01-04-2022,Suphan Buri ,60804
+01-04-2022,Phetchaburi ,313166
+01-04-2022,Prachuap Khiri Khan ,402368
+01-04-2022,Chonburi ,687744
+01-04-2022,Chanthaburi ,81657
+01-04-2022,Trat ,109675
+01-04-2022,Nakhon Nayok ,72944
+01-04-2022,Prachinburi ,51442
+01-04-2022,Rayong ,144927
+01-04-2022,Sa Kaeo ,33186
+01-04-2022,Phuket ,245225
+01-04-2022,Phatthalung ,21770
+01-04-2022,Trang ,60693
+01-04-2022,Ranong ,28923
+01-04-2022,Chumphon ,70243
+01-04-2022,Pattani ,12477
+01-04-2022,Yala ,54685
+01-04-2022,Nakhon Si Thammarat ,90224
+01-04-2022,Narathiwat ,17911
+01-04-2022,Krabi ,87664
+01-04-2022,Songkhla ,96095
+01-04-2022,Phang Nga ,48572
+01-04-2022,Surat Thani ,215562
+01-04-2022,Satun ,79048
+01-04-2022,Kamphaeng Phet ,28955
+01-04-2022,Chiang Rai ,284500
+01-04-2022,Chiang Mai ,439564
+01-04-2022,Phichit ,27993
+01-04-2022,Nakhon Sawan ,68175
+01-04-2022,Tak ,90123
+01-04-2022,Phitsanulok ,105237
+01-04-2022,Phayao ,35527
+01-04-2022,Phetchabun ,113958
+01-04-2022,Phrae ,37883
+01-04-2022,Lampang ,41533
+01-04-2022,Lamphun ,16631
+01-04-2022,Mae Hong Son ,56273
+01-04-2022,Uttaradit ,32904
+01-04-2022,Uthai Thani ,22326
+01-04-2022,Sukhothai ,36168
+01-04-2022,Nan ,73923
+01-04-2022,Kalasin ,18917
+01-04-2022,Khon Kaen ,131936
+01-04-2022,Chaiyaphum ,55357
+01-04-2022,Nakhon Phanom ,44412
+01-04-2022,Nakhon Ratchasima ,310218
+01-04-2022,Buriram ,111676
+01-04-2022,Maha Sarakham ,26861
+01-04-2022,Mukdahan ,35538
+01-04-2022,Roi Et ,21801
+01-04-2022,Loei ,80905
+01-04-2022,Sisaket ,25824
+01-04-2022,Surin ,49128
+01-04-2022,Nong Khai ,59097
+01-04-2022,Bueng Kan ,30086
+01-04-2022,Udon Thani ,97916
+01-04-2022,Ubon Ratchathani ,77886
+01-04-2022,Sakon Nakhon ,42738
+01-04-2022,Yasothon ,9954
+01-04-2022,Amnat Charoen ,5405
+01-04-2022,Nong Bua Lamphu ,6858
+01-05-2019,Bangkok,2955553
+01-05-2019,Lopburi ,47641
+01-05-2019,Phra Nakhon Si Ayutthaya ,87841
+01-05-2019,Saraburi ,68576
+01-05-2019,Chainat ,24902
+01-05-2019,Nakhon Pathom ,116631
+01-05-2019,Sing Buri ,15365
+01-05-2019,Ang Thong ,20667
+01-05-2019,Nonthaburi ,83987
+01-05-2019,Pathum Thani ,45058
+01-05-2019,Samut Prakan ,93920
+01-05-2019,Samut Sakhon ,63594
+01-05-2019,Chachoengsao ,45558
+01-05-2019,Ratchaburi ,67137
+01-05-2019,Kanchanaburi ,251166
+01-05-2019,Samut Songkhram ,51663
+01-05-2019,Suphan Buri ,77143
+01-05-2019,Phetchaburi ,307891
+01-05-2019,Prachuap Khiri Khan ,335222
+01-05-2019,Chonburi ,1408665
+01-05-2019,Chanthaburi ,153920
+01-05-2019,Trat ,181493
+01-05-2019,Nakhon Nayok ,149872
+01-05-2019,Prachinburi ,99016
+01-05-2019,Rayong ,443647
+01-05-2019,Sa Kaeo ,64045
+01-05-2019,Phuket ,839220
+01-05-2019,Phatthalung ,77579
+01-05-2019,Trang ,91843
+01-05-2019,Ranong ,56011
+01-05-2019,Chumphon ,113917
+01-05-2019,Pattani ,25054
+01-05-2019,Yala ,55322
+01-05-2019,Nakhon Si Thammarat ,250839
+01-05-2019,Narathiwat ,59793
+01-05-2019,Krabi ,331406
+01-05-2019,Songkhla ,425660
+01-05-2019,Phang Nga ,79288
+01-05-2019,Surat Thani ,394486
+01-05-2019,Satun ,70882
+01-05-2019,Kamphaeng Phet ,31795
+01-05-2019,Chiang Rai ,225609
+01-05-2019,Chiang Mai ,663597
+01-05-2019,Phichit ,29401
+01-05-2019,Nakhon Sawan ,76571
+01-05-2019,Tak ,142153
+01-05-2019,Phitsanulok ,142716
+01-05-2019,Phayao ,17607
+01-05-2019,Phetchabun ,145400
+01-05-2019,Phrae ,24092
+01-05-2019,Lampang ,48317
+01-05-2019,Lamphun ,21025
+01-05-2019,Mae Hong Son ,58747
+01-05-2019,Uttaradit ,52687
+01-05-2019,Uthai Thani ,25958
+01-05-2019,Sukhothai ,72204
+01-05-2019,Nan ,56523
+01-05-2019,Kalasin ,23646
+01-05-2019,Khon Kaen ,183914
+01-05-2019,Chaiyaphum ,73253
+01-05-2019,Nakhon Phanom ,35555
+01-05-2019,Nakhon Ratchasima ,448391
+01-05-2019,Buriram ,93781
+01-05-2019,Maha Sarakham ,36200
+01-05-2019,Mukdahan ,53983
+01-05-2019,Roi Et ,34001
+01-05-2019,Loei ,92249
+01-05-2019,Sisaket ,26597
+01-05-2019,Surin ,75190
+01-05-2019,Nong Khai ,95987
+01-05-2019,Bueng Kan ,21618
+01-05-2019,Udon Thani ,188311
+01-05-2019,Ubon Ratchathani ,111533
+01-05-2019,Sakon Nakhon ,73166
+01-05-2019,Yasothon ,17536
+01-05-2019,Amnat Charoen ,7296
+01-05-2019,Nong Bua Lamphu ,10113
+01-05-2020,Bangkok,424761
+01-05-2020,Lopburi ,538
+01-05-2020,Phra Nakhon Si Ayutthaya ,1269
+01-05-2020,Saraburi ,1053
+01-05-2020,Chainat ,531
+01-05-2020,Nakhon Pathom ,1870
+01-05-2020,Sing Buri ,914
+01-05-2020,Ang Thong ,520
+01-05-2020,Nonthaburi ,1277
+01-05-2020,Pathum Thani ,976
+01-05-2020,Samut Prakan ,0
+01-05-2020,Samut Sakhon ,939
+01-05-2020,Chachoengsao ,496
+01-05-2020,Ratchaburi ,4086
+01-05-2020,Kanchanaburi ,24727
+01-05-2020,Samut Songkhram ,2212
+01-05-2020,Suphan Buri ,1157
+01-05-2020,Phetchaburi ,1645
+01-05-2020,Prachuap Khiri Khan ,3572
+01-05-2020,Chonburi ,14860
+01-05-2020,Chanthaburi ,0
+01-05-2020,Trat ,293
+01-05-2020,Nakhon Nayok ,2663
+01-05-2020,Prachinburi ,1295
+01-05-2020,Rayong ,4885
+01-05-2020,Sa Kaeo ,0
+01-05-2020,Phuket ,3621
+01-05-2020,Phatthalung ,119
+01-05-2020,Trang ,93
+01-05-2020,Ranong ,231
+01-05-2020,Chumphon ,249
+01-05-2020,Pattani ,316
+01-05-2020,Yala ,366
+01-05-2020,Nakhon Si Thammarat ,101
+01-05-2020,Narathiwat ,115
+01-05-2020,Krabi ,195
+01-05-2020,Songkhla ,528
+01-05-2020,Phang Nga ,1133
+01-05-2020,Surat Thani ,8239
+01-05-2020,Satun ,84
+01-05-2020,Kamphaeng Phet ,1924
+01-05-2020,Chiang Rai ,10929
+01-05-2020,Chiang Mai ,16125
+01-05-2020,Phichit ,1867
+01-05-2020,Nakhon Sawan ,6877
+01-05-2020,Tak ,5214
+01-05-2020,Phitsanulok ,9502
+01-05-2020,Phayao ,2335
+01-05-2020,Phetchabun ,5739
+01-05-2020,Phrae ,2968
+01-05-2020,Lampang ,3720
+01-05-2020,Lamphun ,2633
+01-05-2020,Mae Hong Son ,629
+01-05-2020,Uttaradit ,1988
+01-05-2020,Uthai Thani ,1117
+01-05-2020,Sukhothai ,4240
+01-05-2020,Nan ,1569
+01-05-2020,Kalasin ,1112
+01-05-2020,Khon Kaen ,9869
+01-05-2020,Chaiyaphum ,1948
+01-05-2020,Nakhon Phanom ,1704
+01-05-2020,Nakhon Ratchasima ,7709
+01-05-2020,Buriram ,1331
+01-05-2020,Maha Sarakham ,1022
+01-05-2020,Mukdahan ,1172
+01-05-2020,Roi Et ,1190
+01-05-2020,Loei ,2514
+01-05-2020,Sisaket ,1720
+01-05-2020,Surin ,871
+01-05-2020,Nong Khai ,4234
+01-05-2020,Bueng Kan ,958
+01-05-2020,Udon Thani ,5120
+01-05-2020,Ubon Ratchathani ,6945
+01-05-2020,Sakon Nakhon ,1643
+01-05-2020,Yasothon ,739
+01-05-2020,Amnat Charoen ,657
+01-05-2020,Nong Bua Lamphu ,196
+01-05-2021,Bangkok,251987
+01-05-2021,Lopburi ,3023
+01-05-2021,Phra Nakhon Si Ayutthaya ,9303
+01-05-2021,Saraburi ,4725
+01-05-2021,Chainat ,1285
+01-05-2021,Nakhon Pathom ,3598
+01-05-2021,Sing Buri ,1036
+01-05-2021,Ang Thong ,895
+01-05-2021,Nonthaburi ,1095
+01-05-2021,Pathum Thani ,1531
+01-05-2021,Samut Prakan ,1827
+01-05-2021,Samut Sakhon ,1250
+01-05-2021,Chachoengsao ,847
+01-05-2021,Ratchaburi ,3901
+01-05-2021,Kanchanaburi ,19921
+01-05-2021,Samut Songkhram ,7705
+01-05-2021,Suphan Buri ,3695
+01-05-2021,Phetchaburi ,35478
+01-05-2021,Prachuap Khiri Khan ,42558
+01-05-2021,Chonburi ,27145
+01-05-2021,Chanthaburi ,20737
+01-05-2021,Trat ,22835
+01-05-2021,Nakhon Nayok ,5750
+01-05-2021,Prachinburi ,4292
+01-05-2021,Rayong ,18611
+01-05-2021,Sa Kaeo ,2546
+01-05-2021,Phuket ,4061
+01-05-2021,Phatthalung ,953
+01-05-2021,Trang ,961
+01-05-2021,Ranong ,1137
+01-05-2021,Chumphon ,923
+01-05-2021,Pattani ,876
+01-05-2021,Yala ,1546
+01-05-2021,Nakhon Si Thammarat ,5781
+01-05-2021,Narathiwat ,742
+01-05-2021,Krabi ,941
+01-05-2021,Songkhla ,1923
+01-05-2021,Phang Nga ,6247
+01-05-2021,Surat Thani ,1607
+01-05-2021,Satun ,3674
+01-05-2021,Kamphaeng Phet ,6106
+01-05-2021,Chiang Rai ,30099
+01-05-2021,Chiang Mai ,70959
+01-05-2021,Phichit ,3789
+01-05-2021,Nakhon Sawan ,15393
+01-05-2021,Tak ,13706
+01-05-2021,Phitsanulok ,23433
+01-05-2021,Phayao ,5168
+01-05-2021,Phetchabun ,27136
+01-05-2021,Phrae ,5296
+01-05-2021,Lampang ,6855
+01-05-2021,Lamphun ,1996
+01-05-2021,Mae Hong Son ,12078
+01-05-2021,Uttaradit ,5716
+01-05-2021,Uthai Thani ,1167
+01-05-2021,Sukhothai ,2834
+01-05-2021,Nan ,5641
+01-05-2021,Kalasin ,824
+01-05-2021,Khon Kaen ,15252
+01-05-2021,Chaiyaphum ,5794
+01-05-2021,Nakhon Phanom ,1396
+01-05-2021,Nakhon Ratchasima ,58023
+01-05-2021,Buriram ,11108
+01-05-2021,Maha Sarakham ,2302
+01-05-2021,Mukdahan ,1799
+01-05-2021,Roi Et ,2409
+01-05-2021,Loei ,3286
+01-05-2021,Sisaket ,1235
+01-05-2021,Surin ,6689
+01-05-2021,Nong Khai ,6310
+01-05-2021,Bueng Kan ,609
+01-05-2021,Udon Thani ,5145
+01-05-2021,Ubon Ratchathani ,6702
+01-05-2021,Sakon Nakhon ,1921
+01-05-2021,Yasothon ,310
+01-05-2021,Amnat Charoen ,280
+01-05-2021,Nong Bua Lamphu ,745
+01-05-2022,Bangkok,1223923
+01-05-2022,Lopburi ,58179
+01-05-2022,Phra Nakhon Si Ayutthaya ,70579
+01-05-2022,Saraburi ,65891
+01-05-2022,Chainat ,15003
+01-05-2022,Nakhon Pathom ,62115
+01-05-2022,Sing Buri ,13093
+01-05-2022,Ang Thong ,6500
+01-05-2022,Nonthaburi ,55240
+01-05-2022,Pathum Thani ,22181
+01-05-2022,Samut Prakan ,44887
+01-05-2022,Samut Sakhon ,16984
+01-05-2022,Chachoengsao ,22228
+01-05-2022,Ratchaburi ,68095
+01-05-2022,Kanchanaburi ,225589
+01-05-2022,Samut Songkhram ,57303
+01-05-2022,Suphan Buri ,58327
+01-05-2022,Phetchaburi ,307709
+01-05-2022,Prachuap Khiri Khan ,376515
+01-05-2022,Chonburi ,657093
+01-05-2022,Chanthaburi ,84917
+01-05-2022,Trat ,107199
+01-05-2022,Nakhon Nayok ,74370
+01-05-2022,Prachinburi ,48582
+01-05-2022,Rayong ,144903
+01-05-2022,Sa Kaeo ,35217
+01-05-2022,Phuket ,299970
+01-05-2022,Phatthalung ,28268
+01-05-2022,Trang ,56713
+01-05-2022,Ranong ,27915
+01-05-2022,Chumphon ,67244
+01-05-2022,Pattani ,13182
+01-05-2022,Yala ,59434
+01-05-2022,Nakhon Si Thammarat ,105475
+01-05-2022,Narathiwat ,19110
+01-05-2022,Krabi ,83762
+01-05-2022,Songkhla ,111926
+01-05-2022,Phang Nga ,45279
+01-05-2022,Surat Thani ,209989
+01-05-2022,Satun ,73884
+01-05-2022,Kamphaeng Phet ,27456
+01-05-2022,Chiang Rai ,261119
+01-05-2022,Chiang Mai ,380699
+01-05-2022,Phichit ,26690
+01-05-2022,Nakhon Sawan ,64904
+01-05-2022,Tak ,89007
+01-05-2022,Phitsanulok ,106424
+01-05-2022,Phayao ,34331
+01-05-2022,Phetchabun ,118838
+01-05-2022,Phrae ,35984
+01-05-2022,Lampang ,39017
+01-05-2022,Lamphun ,17488
+01-05-2022,Mae Hong Son ,66746
+01-05-2022,Uttaradit ,36261
+01-05-2022,Uthai Thani ,21454
+01-05-2022,Sukhothai ,35899
+01-05-2022,Nan ,72536
+01-05-2022,Kalasin ,17898
+01-05-2022,Khon Kaen ,138280
+01-05-2022,Chaiyaphum ,44753
+01-05-2022,Nakhon Phanom ,42937
+01-05-2022,Nakhon Ratchasima ,289465
+01-05-2022,Buriram ,109177
+01-05-2022,Maha Sarakham ,21232
+01-05-2022,Mukdahan ,34874
+01-05-2022,Roi Et ,20923
+01-05-2022,Loei ,83305
+01-05-2022,Sisaket ,24776
+01-05-2022,Surin ,44762
+01-05-2022,Nong Khai ,61879
+01-05-2022,Bueng Kan ,27048
+01-05-2022,Udon Thani ,107761
+01-05-2022,Ubon Ratchathani ,75163
+01-05-2022,Sakon Nakhon ,40056
+01-05-2022,Yasothon ,10856
+01-05-2022,Amnat Charoen ,5708
+01-05-2022,Nong Bua Lamphu ,6665
+01-06-2019,Bangkok,2730212
+01-06-2019,Lopburi ,44546
+01-06-2019,Phra Nakhon Si Ayutthaya ,82229
+01-06-2019,Saraburi ,68969
+01-06-2019,Chainat ,23450
+01-06-2019,Nakhon Pathom ,109610
+01-06-2019,Sing Buri ,15121
+01-06-2019,Ang Thong ,18583
+01-06-2019,Nonthaburi ,81506
+01-06-2019,Pathum Thani ,43242
+01-06-2019,Samut Prakan ,91008
+01-06-2019,Samut Sakhon ,58934
+01-06-2019,Chachoengsao ,40885
+01-06-2019,Ratchaburi ,52990
+01-06-2019,Kanchanaburi ,229213
+01-06-2019,Samut Songkhram ,47567
+01-06-2019,Suphan Buri ,80569
+01-06-2019,Phetchaburi ,264852
+01-06-2019,Prachuap Khiri Khan ,309372
+01-06-2019,Chonburi ,1272728
+01-06-2019,Chanthaburi ,153288
+01-06-2019,Trat ,145191
+01-06-2019,Nakhon Nayok ,137656
+01-06-2019,Prachinburi ,83396
+01-06-2019,Rayong ,437564
+01-06-2019,Sa Kaeo ,64022
+01-06-2019,Phuket ,1061379
+01-06-2019,Phatthalung ,64655
+01-06-2019,Trang ,61901
+01-06-2019,Ranong ,52726
+01-06-2019,Chumphon ,110778
+01-06-2019,Pattani ,21660
+01-06-2019,Yala ,50676
+01-06-2019,Nakhon Si Thammarat ,209065
+01-06-2019,Narathiwat ,48227
+01-06-2019,Krabi ,275731
+01-06-2019,Songkhla ,368099
+01-06-2019,Phang Nga ,67162
+01-06-2019,Surat Thani ,347860
+01-06-2019,Satun ,60615
+01-06-2019,Kamphaeng Phet ,32150
+01-06-2019,Chiang Rai ,197284
+01-06-2019,Chiang Mai ,659246
+01-06-2019,Phichit ,25369
+01-06-2019,Nakhon Sawan ,79635
+01-06-2019,Tak ,131440
+01-06-2019,Phitsanulok ,146262
+01-06-2019,Phayao ,17017
+01-06-2019,Phetchabun ,141950
+01-06-2019,Phrae ,19883
+01-06-2019,Lampang ,45953
+01-06-2019,Lamphun ,19567
+01-06-2019,Mae Hong Son ,54882
+01-06-2019,Uttaradit ,49696
+01-06-2019,Uthai Thani ,24536
+01-06-2019,Sukhothai ,68256
+01-06-2019,Nan ,51017
+01-06-2019,Kalasin ,22756
+01-06-2019,Khon Kaen ,185698
+01-06-2019,Chaiyaphum ,75654
+01-06-2019,Nakhon Phanom ,34858
+01-06-2019,Nakhon Ratchasima ,427592
+01-06-2019,Buriram ,93944
+01-06-2019,Maha Sarakham ,34327
+01-06-2019,Mukdahan ,47028
+01-06-2019,Roi Et ,34336
+01-06-2019,Loei ,101848
+01-06-2019,Sisaket ,26567
+01-06-2019,Surin ,69586
+01-06-2019,Nong Khai ,81468
+01-06-2019,Bueng Kan ,21594
+01-06-2019,Udon Thani ,172223
+01-06-2019,Ubon Ratchathani ,101417
+01-06-2019,Sakon Nakhon ,66671
+01-06-2019,Yasothon ,15844
+01-06-2019,Amnat Charoen ,6454
+01-06-2019,Nong Bua Lamphu ,11457
+01-06-2020,Bangkok,476161
+01-06-2020,Lopburi ,9170
+01-06-2020,Phra Nakhon Si Ayutthaya ,13005
+01-06-2020,Saraburi ,14939
+01-06-2020,Chainat ,3565
+01-06-2020,Nakhon Pathom ,15048
+01-06-2020,Sing Buri ,2282
+01-06-2020,Ang Thong ,1176
+01-06-2020,Nonthaburi ,11994
+01-06-2020,Pathum Thani ,4852
+01-06-2020,Samut Prakan ,8758
+01-06-2020,Samut Sakhon ,8301
+01-06-2020,Chachoengsao ,5049
+01-06-2020,Ratchaburi ,18612
+01-06-2020,Kanchanaburi ,79142
+01-06-2020,Samut Songkhram ,13522
+01-06-2020,Suphan Buri ,19461
+01-06-2020,Phetchaburi ,85094
+01-06-2020,Prachuap Khiri Khan ,123905
+01-06-2020,Chonburi ,295090
+01-06-2020,Chanthaburi ,38357
+01-06-2020,Trat ,37762
+01-06-2020,Nakhon Nayok ,21178
+01-06-2020,Prachinburi ,10199
+01-06-2020,Rayong ,69574
+01-06-2020,Sa Kaeo ,11454
+01-06-2020,Phuket ,72953
+01-06-2020,Phatthalung ,9968
+01-06-2020,Trang ,4399
+01-06-2020,Ranong ,6606
+01-06-2020,Chumphon ,17285
+01-06-2020,Pattani ,5269
+01-06-2020,Yala ,2873
+01-06-2020,Nakhon Si Thammarat ,59278
+01-06-2020,Narathiwat ,4384
+01-06-2020,Krabi ,20782
+01-06-2020,Songkhla ,69774
+01-06-2020,Phang Nga ,14736
+01-06-2020,Surat Thani ,18742
+01-06-2020,Satun ,8553
+01-06-2020,Kamphaeng Phet ,6170
+01-06-2020,Chiang Rai ,48372
+01-06-2020,Chiang Mai ,110139
+01-06-2020,Phichit ,5413
+01-06-2020,Nakhon Sawan ,18657
+01-06-2020,Tak ,24479
+01-06-2020,Phitsanulok ,34987
+01-06-2020,Phayao ,4564
+01-06-2020,Phetchabun ,32079
+01-06-2020,Phrae ,4764
+01-06-2020,Lampang ,7238
+01-06-2020,Lamphun ,3180
+01-06-2020,Mae Hong Son ,9123
+01-06-2020,Uttaradit ,10164
+01-06-2020,Uthai Thani ,5119
+01-06-2020,Sukhothai ,14942
+01-06-2020,Nan ,10617
+01-06-2020,Kalasin ,3736
+01-06-2020,Khon Kaen ,41215
+01-06-2020,Chaiyaphum ,11349
+01-06-2020,Nakhon Phanom ,4922
+01-06-2020,Nakhon Ratchasima ,120991
+01-06-2020,Buriram ,8140
+01-06-2020,Maha Sarakham ,6077
+01-06-2020,Mukdahan ,4611
+01-06-2020,Roi Et ,5764
+01-06-2020,Loei ,4036
+01-06-2020,Sisaket ,10607
+01-06-2020,Surin ,19845
+01-06-2020,Nong Khai ,16009
+01-06-2020,Bueng Kan ,2978
+01-06-2020,Udon Thani ,23073
+01-06-2020,Ubon Ratchathani ,29823
+01-06-2020,Sakon Nakhon ,10308
+01-06-2020,Yasothon ,2661
+01-06-2020,Amnat Charoen ,1129
+01-06-2020,Nong Bua Lamphu ,570
+01-06-2021,Bangkok,222436
+01-06-2021,Lopburi ,2747
+01-06-2021,Phra Nakhon Si Ayutthaya ,9045
+01-06-2021,Saraburi ,4536
+01-06-2021,Chainat ,1046
+01-06-2021,Nakhon Pathom ,3186
+01-06-2021,Sing Buri ,1128
+01-06-2021,Ang Thong ,843
+01-06-2021,Nonthaburi ,882
+01-06-2021,Pathum Thani ,1044
+01-06-2021,Samut Prakan ,1485
+01-06-2021,Samut Sakhon ,1059
+01-06-2021,Chachoengsao ,737
+01-06-2021,Ratchaburi ,7465
+01-06-2021,Kanchanaburi ,31105
+01-06-2021,Samut Songkhram ,9087
+01-06-2021,Suphan Buri ,6999
+01-06-2021,Phetchaburi ,33022
+01-06-2021,Prachuap Khiri Khan ,34465
+01-06-2021,Chonburi ,27798
+01-06-2021,Chanthaburi ,19840
+01-06-2021,Trat ,17408
+01-06-2021,Nakhon Nayok ,4230
+01-06-2021,Prachinburi ,2547
+01-06-2021,Rayong ,18997
+01-06-2021,Sa Kaeo ,2037
+01-06-2021,Phuket ,16628
+01-06-2021,Phatthalung ,1605
+01-06-2021,Trang ,1811
+01-06-2021,Ranong ,1491
+01-06-2021,Chumphon ,1684
+01-06-2021,Pattani ,583
+01-06-2021,Yala ,692
+01-06-2021,Nakhon Si Thammarat ,7152
+01-06-2021,Narathiwat ,433
+01-06-2021,Krabi ,1093
+01-06-2021,Songkhla ,1539
+01-06-2021,Phang Nga ,4474
+01-06-2021,Surat Thani ,2236
+01-06-2021,Satun ,2001
+01-06-2021,Kamphaeng Phet ,5018
+01-06-2021,Chiang Rai ,22962
+01-06-2021,Chiang Mai ,59083
+01-06-2021,Phichit ,3138
+01-06-2021,Nakhon Sawan ,11394
+01-06-2021,Tak ,11809
+01-06-2021,Phitsanulok ,20540
+01-06-2021,Phayao ,3963
+01-06-2021,Phetchabun ,20779
+01-06-2021,Phrae ,4158
+01-06-2021,Lampang ,4727
+01-06-2021,Lamphun ,1649
+01-06-2021,Mae Hong Son ,7872
+01-06-2021,Uttaradit ,4901
+01-06-2021,Uthai Thani ,1609
+01-06-2021,Sukhothai ,2988
+01-06-2021,Nan ,10427
+01-06-2021,Kalasin ,1019
+01-06-2021,Khon Kaen ,13888
+01-06-2021,Chaiyaphum ,4651
+01-06-2021,Nakhon Phanom ,1538
+01-06-2021,Nakhon Ratchasima ,73450
+01-06-2021,Buriram ,12817
+01-06-2021,Maha Sarakham ,1883
+01-06-2021,Mukdahan ,1734
+01-06-2021,Roi Et ,1500
+01-06-2021,Loei ,2661
+01-06-2021,Sisaket ,2469
+01-06-2021,Surin ,8269
+01-06-2021,Nong Khai ,6065
+01-06-2021,Bueng Kan ,1364
+01-06-2021,Udon Thani ,7754
+01-06-2021,Ubon Ratchathani ,8541
+01-06-2021,Sakon Nakhon ,2753
+01-06-2021,Yasothon ,531
+01-06-2021,Amnat Charoen ,549
+01-06-2021,Nong Bua Lamphu ,1107
+01-06-2022,Bangkok,1268316
+01-06-2022,Lopburi ,56276
+01-06-2022,Phra Nakhon Si Ayutthaya ,74459
+01-06-2022,Saraburi ,67682
+01-06-2022,Chainat ,14086
+01-06-2022,Nakhon Pathom ,60224
+01-06-2022,Sing Buri ,12506
+01-06-2022,Ang Thong ,6121
+01-06-2022,Nonthaburi ,55438
+01-06-2022,Pathum Thani ,23024
+01-06-2022,Samut Prakan ,47765
+01-06-2022,Samut Sakhon ,15908
+01-06-2022,Chachoengsao ,21696
+01-06-2022,Ratchaburi ,61538
+01-06-2022,Kanchanaburi ,210309
+01-06-2022,Samut Songkhram ,52808
+01-06-2022,Suphan Buri ,54895
+01-06-2022,Phetchaburi ,277959
+01-06-2022,Prachuap Khiri Khan ,362131
+01-06-2022,Chonburi ,681783
+01-06-2022,Chanthaburi ,79194
+01-06-2022,Trat ,104205
+01-06-2022,Nakhon Nayok ,79327
+01-06-2022,Prachinburi ,50454
+01-06-2022,Rayong ,151195
+01-06-2022,Sa Kaeo ,36517
+01-06-2022,Phuket ,356119
+01-06-2022,Phatthalung ,28714
+01-06-2022,Trang ,50178
+01-06-2022,Ranong ,29011
+01-06-2022,Chumphon ,70522
+01-06-2022,Pattani ,13692
+01-06-2022,Yala ,62602
+01-06-2022,Nakhon Si Thammarat ,100520
+01-06-2022,Narathiwat ,19730
+01-06-2022,Krabi ,75119
+01-06-2022,Songkhla ,127186
+01-06-2022,Phang Nga ,41496
+01-06-2022,Surat Thani ,220354
+01-06-2022,Satun ,66935
+01-06-2022,Kamphaeng Phet ,23648
+01-06-2022,Chiang Rai ,259947
+01-06-2022,Chiang Mai ,379649
+01-06-2022,Phichit ,24953
+01-06-2022,Nakhon Sawan ,67948
+01-06-2022,Tak ,90321
+01-06-2022,Phitsanulok ,104996
+01-06-2022,Phayao ,32017
+01-06-2022,Phetchabun ,120129
+01-06-2022,Phrae ,38977
+01-06-2022,Lampang ,39953
+01-06-2022,Lamphun ,16957
+01-06-2022,Mae Hong Son ,72767
+01-06-2022,Uttaradit ,38526
+01-06-2022,Uthai Thani ,22016
+01-06-2022,Sukhothai ,35808
+01-06-2022,Nan ,68114
+01-06-2022,Kalasin ,18318
+01-06-2022,Khon Kaen ,133491
+01-06-2022,Chaiyaphum ,46029
+01-06-2022,Nakhon Phanom ,43528
+01-06-2022,Nakhon Ratchasima ,289093
+01-06-2022,Buriram ,106802
+01-06-2022,Maha Sarakham ,20744
+01-06-2022,Mukdahan ,33637
+01-06-2022,Roi Et ,20009
+01-06-2022,Loei ,81240
+01-06-2022,Sisaket ,25818
+01-06-2022,Surin ,43800
+01-06-2022,Nong Khai ,63575
+01-06-2022,Bueng Kan ,27526
+01-06-2022,Udon Thani ,103845
+01-06-2022,Ubon Ratchathani ,76581
+01-06-2022,Sakon Nakhon ,41370
+01-06-2022,Yasothon ,10085
+01-06-2022,Amnat Charoen ,5252
+01-06-2022,Nong Bua Lamphu ,7033
+01-07-2019,Bangkok,3008999
+01-07-2019,Lopburi ,38352
+01-07-2019,Phra Nakhon Si Ayutthaya ,78614
+01-07-2019,Saraburi ,55597
+01-07-2019,Chainat ,24004
+01-07-2019,Nakhon Pathom ,116937
+01-07-2019,Sing Buri ,15311
+01-07-2019,Ang Thong ,15891
+01-07-2019,Nonthaburi ,80728
+01-07-2019,Pathum Thani ,36148
+01-07-2019,Samut Prakan ,89536
+01-07-2019,Samut Sakhon ,50745
+01-07-2019,Chachoengsao ,43081
+01-07-2019,Ratchaburi ,83406
+01-07-2019,Kanchanaburi ,241155
+01-07-2019,Samut Songkhram ,57945
+01-07-2019,Suphan Buri ,64004
+01-07-2019,Phetchaburi ,326995
+01-07-2019,Prachuap Khiri Khan ,321644
+01-07-2019,Chonburi ,1106315
+01-07-2019,Chanthaburi ,131601
+01-07-2019,Trat ,151318
+01-07-2019,Nakhon Nayok ,176130
+01-07-2019,Prachinburi ,79951
+01-07-2019,Rayong ,308020
+01-07-2019,Sa Kaeo ,67138
+01-07-2019,Phuket ,748133
+01-07-2019,Phatthalung ,70790
+01-07-2019,Trang ,55758
+01-07-2019,Ranong ,57228
+01-07-2019,Chumphon ,124181
+01-07-2019,Pattani ,22673
+01-07-2019,Yala ,57024
+01-07-2019,Nakhon Si Thammarat ,168746
+01-07-2019,Narathiwat ,50799
+01-07-2019,Krabi ,277123
+01-07-2019,Songkhla ,413807
+01-07-2019,Phang Nga ,72531
+01-07-2019,Surat Thani ,464073
+01-07-2019,Satun ,58483
+01-07-2019,Kamphaeng Phet ,27655
+01-07-2019,Chiang Rai ,191628
+01-07-2019,Chiang Mai ,655029
+01-07-2019,Phichit ,32616
+01-07-2019,Nakhon Sawan ,67478
+01-07-2019,Tak ,116558
+01-07-2019,Phitsanulok ,141704
+01-07-2019,Phayao ,18836
+01-07-2019,Phetchabun ,122142
+01-07-2019,Phrae ,28578
+01-07-2019,Lampang ,37848
+01-07-2019,Lamphun ,17963
+01-07-2019,Mae Hong Son ,43270
+01-07-2019,Uttaradit ,44572
+01-07-2019,Uthai Thani ,26456
+01-07-2019,Sukhothai ,65591
+01-07-2019,Nan ,46737
+01-07-2019,Kalasin ,20466
+01-07-2019,Khon Kaen ,219224
+01-07-2019,Chaiyaphum ,94995
+01-07-2019,Nakhon Phanom ,34765
+01-07-2019,Nakhon Ratchasima ,430254
+01-07-2019,Buriram ,89281
+01-07-2019,Maha Sarakham ,37552
+01-07-2019,Mukdahan ,43614
+01-07-2019,Roi Et ,42014
+01-07-2019,Loei ,77242
+01-07-2019,Sisaket ,30925
+01-07-2019,Surin ,87827
+01-07-2019,Nong Khai ,90751
+01-07-2019,Bueng Kan ,22905
+01-07-2019,Udon Thani ,183671
+01-07-2019,Ubon Ratchathani ,123278
+01-07-2019,Sakon Nakhon ,50626
+01-07-2019,Yasothon ,16607
+01-07-2019,Amnat Charoen ,7652
+01-07-2019,Nong Bua Lamphu ,10380
+01-07-2020,Bangkok,643740
+01-07-2020,Lopburi ,16692
+01-07-2020,Phra Nakhon Si Ayutthaya ,52072
+01-07-2020,Saraburi ,36631
+01-07-2020,Chainat ,9911
+01-07-2020,Nakhon Pathom ,54016
+01-07-2020,Sing Buri ,5357
+01-07-2020,Ang Thong ,3358
+01-07-2020,Nonthaburi ,21787
+01-07-2020,Pathum Thani ,7901
+01-07-2020,Samut Prakan ,10395
+01-07-2020,Samut Sakhon ,16488
+01-07-2020,Chachoengsao ,10458
+01-07-2020,Ratchaburi ,64624
+01-07-2020,Kanchanaburi ,189925
+01-07-2020,Samut Songkhram ,42803
+01-07-2020,Suphan Buri ,36348
+01-07-2020,Phetchaburi ,266442
+01-07-2020,Prachuap Khiri Khan ,224481
+01-07-2020,Chonburi ,371657
+01-07-2020,Chanthaburi ,99791
+01-07-2020,Trat ,98169
+01-07-2020,Nakhon Nayok ,127667
+01-07-2020,Prachinburi ,56154
+01-07-2020,Rayong ,91020
+01-07-2020,Sa Kaeo ,53142
+01-07-2020,Phuket ,57992
+01-07-2020,Phatthalung ,39826
+01-07-2020,Trang ,34768
+01-07-2020,Ranong ,21337
+01-07-2020,Chumphon ,60372
+01-07-2020,Pattani ,5164
+01-07-2020,Yala ,11132
+01-07-2020,Nakhon Si Thammarat ,153194
+01-07-2020,Narathiwat ,8946
+01-07-2020,Krabi ,33488
+01-07-2020,Songkhla ,183480
+01-07-2020,Phang Nga ,13829
+01-07-2020,Surat Thani ,90399
+01-07-2020,Satun ,31014
+01-07-2020,Kamphaeng Phet ,18865
+01-07-2020,Chiang Rai ,134159
+01-07-2020,Chiang Mai ,357496
+01-07-2020,Phichit ,17954
+01-07-2020,Nakhon Sawan ,42279
+01-07-2020,Tak ,68984
+01-07-2020,Phitsanulok ,78966
+01-07-2020,Phayao ,12058
+01-07-2020,Phetchabun ,86319
+01-07-2020,Phrae ,15832
+01-07-2020,Lampang ,23547
+01-07-2020,Lamphun ,10685
+01-07-2020,Mae Hong Son ,23166
+01-07-2020,Uttaradit ,25148
+01-07-2020,Uthai Thani ,17973
+01-07-2020,Sukhothai ,42207
+01-07-2020,Nan ,28852
+01-07-2020,Kalasin ,8702
+01-07-2020,Khon Kaen ,123572
+01-07-2020,Chaiyaphum ,37967
+01-07-2020,Nakhon Phanom ,22314
+01-07-2020,Nakhon Ratchasima ,299236
+01-07-2020,Buriram ,44028
+01-07-2020,Maha Sarakham ,25394
+01-07-2020,Mukdahan ,9603
+01-07-2020,Roi Et ,26049
+01-07-2020,Loei ,47648
+01-07-2020,Sisaket ,18680
+01-07-2020,Surin ,42214
+01-07-2020,Nong Khai ,53929
+01-07-2020,Bueng Kan ,15582
+01-07-2020,Udon Thani ,102440
+01-07-2020,Ubon Ratchathani ,57259
+01-07-2020,Sakon Nakhon ,18759
+01-07-2020,Yasothon ,7748
+01-07-2020,Amnat Charoen ,3394
+01-07-2020,Nong Bua Lamphu ,6194
+01-07-2021,Bangkok,104844
+01-07-2021,Lopburi ,2115
+01-07-2021,Phra Nakhon Si Ayutthaya ,6207
+01-07-2021,Saraburi ,2695
+01-07-2021,Chainat ,730
+01-07-2021,Nakhon Pathom ,1281
+01-07-2021,Sing Buri ,757
+01-07-2021,Ang Thong ,482
+01-07-2021,Nonthaburi ,557
+01-07-2021,Pathum Thani ,672
+01-07-2021,Samut Prakan ,618
+01-07-2021,Samut Sakhon ,528
+01-07-2021,Chachoengsao ,440
+01-07-2021,Ratchaburi ,3780
+01-07-2021,Kanchanaburi ,12667
+01-07-2021,Samut Songkhram ,2648
+01-07-2021,Suphan Buri ,2776
+01-07-2021,Phetchaburi ,12527
+01-07-2021,Prachuap Khiri Khan ,18263
+01-07-2021,Chonburi ,15362
+01-07-2021,Chanthaburi ,16972
+01-07-2021,Trat ,12286
+01-07-2021,Nakhon Nayok ,2116
+01-07-2021,Prachinburi ,1678
+01-07-2021,Rayong ,16591
+01-07-2021,Sa Kaeo ,1313
+01-07-2021,Phuket ,21398
+01-07-2021,Phatthalung ,1330
+01-07-2021,Trang ,1565
+01-07-2021,Ranong ,1270
+01-07-2021,Chumphon ,1436
+01-07-2021,Pattani ,464
+01-07-2021,Yala ,441
+01-07-2021,Nakhon Si Thammarat ,6230
+01-07-2021,Narathiwat ,377
+01-07-2021,Krabi ,835
+01-07-2021,Songkhla ,901
+01-07-2021,Phang Nga ,4206
+01-07-2021,Surat Thani ,2082
+01-07-2021,Satun ,1345
+01-07-2021,Kamphaeng Phet ,4586
+01-07-2021,Chiang Rai ,23836
+01-07-2021,Chiang Mai ,52843
+01-07-2021,Phichit ,3067
+01-07-2021,Nakhon Sawan ,9801
+01-07-2021,Tak ,10955
+01-07-2021,Phitsanulok ,18673
+01-07-2021,Phayao ,3818
+01-07-2021,Phetchabun ,19417
+01-07-2021,Phrae ,4605
+01-07-2021,Lampang ,4034
+01-07-2021,Lamphun ,1452
+01-07-2021,Mae Hong Son ,8841
+01-07-2021,Uttaradit ,4704
+01-07-2021,Uthai Thani ,1140
+01-07-2021,Sukhothai ,2682
+01-07-2021,Nan ,7436
+01-07-2021,Kalasin ,895
+01-07-2021,Khon Kaen ,12918
+01-07-2021,Chaiyaphum ,3225
+01-07-2021,Nakhon Phanom ,1432
+01-07-2021,Nakhon Ratchasima ,47868
+01-07-2021,Buriram ,9185
+01-07-2021,Maha Sarakham ,1595
+01-07-2021,Mukdahan ,1538
+01-07-2021,Roi Et ,1379
+01-07-2021,Loei ,2431
+01-07-2021,Sisaket ,1488
+01-07-2021,Surin ,5703
+01-07-2021,Nong Khai ,5620
+01-07-2021,Bueng Kan ,1038
+01-07-2021,Udon Thani ,6097
+01-07-2021,Ubon Ratchathani ,5401
+01-07-2021,Sakon Nakhon ,2440
+01-07-2021,Yasothon ,445
+01-07-2021,Amnat Charoen ,464
+01-07-2021,Nong Bua Lamphu ,899
+01-07-2022,Bangkok,1415912
+01-07-2022,Lopburi ,58976
+01-07-2022,Phra Nakhon Si Ayutthaya ,79559
+01-07-2022,Saraburi ,76413
+01-07-2022,Chainat ,15163
+01-07-2022,Nakhon Pathom ,64818
+01-07-2022,Sing Buri ,14445
+01-07-2022,Ang Thong ,7901
+01-07-2022,Nonthaburi ,63452
+01-07-2022,Pathum Thani ,25006
+01-07-2022,Samut Prakan ,52160
+01-07-2022,Samut Sakhon ,16895
+01-07-2022,Chachoengsao ,22985
+01-07-2022,Ratchaburi ,64292
+01-07-2022,Kanchanaburi ,233019
+01-07-2022,Samut Songkhram ,58590
+01-07-2022,Suphan Buri ,60397
+01-07-2022,Phetchaburi ,289681
+01-07-2022,Prachuap Khiri Khan ,377599
+01-07-2022,Chonburi ,743082
+01-07-2022,Chanthaburi ,78170
+01-07-2022,Trat ,103396
+01-07-2022,Nakhon Nayok ,82379
+01-07-2022,Prachinburi ,53238
+01-07-2022,Rayong ,154473
+01-07-2022,Sa Kaeo ,38173
+01-07-2022,Phuket ,478012
+01-07-2022,Phatthalung ,30974
+01-07-2022,Trang ,54003
+01-07-2022,Ranong ,30968
+01-07-2022,Chumphon ,76297
+01-07-2022,Pattani ,15168
+01-07-2022,Yala ,69709
+01-07-2022,Nakhon Si Thammarat ,107327
+01-07-2022,Narathiwat ,21614
+01-07-2022,Krabi ,79890
+01-07-2022,Songkhla ,141431
+01-07-2022,Phang Nga ,39116
+01-07-2022,Surat Thani ,240813
+01-07-2022,Satun ,71438
+01-07-2022,Kamphaeng Phet ,25948
+01-07-2022,Chiang Rai ,270043
+01-07-2022,Chiang Mai ,400473
+01-07-2022,Phichit ,27109
+01-07-2022,Nakhon Sawan ,73314
+01-07-2022,Tak ,98178
+01-07-2022,Phitsanulok ,115351
+01-07-2022,Phayao ,32639
+01-07-2022,Phetchabun ,132663
+01-07-2022,Phrae ,39699
+01-07-2022,Lampang ,43936
+01-07-2022,Lamphun ,17586
+01-07-2022,Mae Hong Son ,75013
+01-07-2022,Uttaradit ,40738
+01-07-2022,Uthai Thani ,24235
+01-07-2022,Sukhothai ,39699
+01-07-2022,Nan ,68965
+01-07-2022,Kalasin ,19048
+01-07-2022,Khon Kaen ,137498
+01-07-2022,Chaiyaphum ,48086
+01-07-2022,Nakhon Phanom ,55069
+01-07-2022,Nakhon Ratchasima ,306700
+01-07-2022,Buriram ,111263
+01-07-2022,Maha Sarakham ,21371
+01-07-2022,Mukdahan ,34226
+01-07-2022,Roi Et ,20445
+01-07-2022,Loei ,86338
+01-07-2022,Sisaket ,26858
+01-07-2022,Surin ,45934
+01-07-2022,Nong Khai ,67341
+01-07-2022,Bueng Kan ,29027
+01-07-2022,Udon Thani ,110081
+01-07-2022,Ubon Ratchathani ,79539
+01-07-2022,Sakon Nakhon ,46404
+01-07-2022,Yasothon ,10430
+01-07-2022,Amnat Charoen ,5473
+01-07-2022,Nong Bua Lamphu ,7245
+01-08-2019,Bangkok,3075987
+01-08-2019,Lopburi ,36460
+01-08-2019,Phra Nakhon Si Ayutthaya ,76653
+01-08-2019,Saraburi ,54505
+01-08-2019,Chainat ,21189
+01-08-2019,Nakhon Pathom ,110696
+01-08-2019,Sing Buri ,13880
+01-08-2019,Ang Thong ,13654
+01-08-2019,Nonthaburi ,79861
+01-08-2019,Pathum Thani ,37269
+01-08-2019,Samut Prakan ,86196
+01-08-2019,Samut Sakhon ,47247
+01-08-2019,Chachoengsao ,38773
+01-08-2019,Ratchaburi ,74095
+01-08-2019,Kanchanaburi ,226684
+01-08-2019,Samut Songkhram ,51984
+01-08-2019,Suphan Buri ,60327
+01-08-2019,Phetchaburi ,307547
+01-08-2019,Prachuap Khiri Khan ,325568
+01-08-2019,Chonburi ,1152253
+01-08-2019,Chanthaburi ,115377
+01-08-2019,Trat ,138192
+01-08-2019,Nakhon Nayok ,156790
+01-08-2019,Prachinburi ,82244
+01-08-2019,Rayong ,264248
+01-08-2019,Sa Kaeo ,61546
+01-08-2019,Phuket ,720398
+01-08-2019,Phatthalung ,64799
+01-08-2019,Trang ,54258
+01-08-2019,Ranong ,55280
+01-08-2019,Chumphon ,105030
+01-08-2019,Pattani ,18317
+01-08-2019,Yala ,62974
+01-08-2019,Nakhon Si Thammarat ,205132
+01-08-2019,Narathiwat ,47814
+01-08-2019,Krabi ,251172
+01-08-2019,Songkhla ,418228
+01-08-2019,Phang Nga ,65484
+01-08-2019,Surat Thani ,491537
+01-08-2019,Satun ,43634
+01-08-2019,Kamphaeng Phet ,24482
+01-08-2019,Chiang Rai ,182721
+01-08-2019,Chiang Mai ,599142
+01-08-2019,Phichit ,32250
+01-08-2019,Nakhon Sawan ,61465
+01-08-2019,Tak ,106797
+01-08-2019,Phitsanulok ,141378
+01-08-2019,Phayao ,18136
+01-08-2019,Phetchabun ,108346
+01-08-2019,Phrae ,26635
+01-08-2019,Lampang ,33530
+01-08-2019,Lamphun ,15962
+01-08-2019,Mae Hong Son ,42177
+01-08-2019,Uttaradit ,37663
+01-08-2019,Uthai Thani ,25112
+01-08-2019,Sukhothai ,57258
+01-08-2019,Nan ,41780
+01-08-2019,Kalasin ,17606
+01-08-2019,Khon Kaen ,191838
+01-08-2019,Chaiyaphum ,83298
+01-08-2019,Nakhon Phanom ,37905
+01-08-2019,Nakhon Ratchasima ,410928
+01-08-2019,Buriram ,78339
+01-08-2019,Maha Sarakham ,36060
+01-08-2019,Mukdahan ,39807
+01-08-2019,Roi Et ,38164
+01-08-2019,Loei ,80237
+01-08-2019,Sisaket ,27865
+01-08-2019,Surin ,81292
+01-08-2019,Nong Khai ,82225
+01-08-2019,Bueng Kan ,21483
+01-08-2019,Udon Thani ,180955
+01-08-2019,Ubon Ratchathani ,102191
+01-08-2019,Sakon Nakhon ,51898
+01-08-2019,Yasothon ,13881
+01-08-2019,Amnat Charoen ,6243
+01-08-2019,Nong Bua Lamphu ,12124
+01-08-2020,Bangkok,780196
+01-08-2020,Lopburi ,21302
+01-08-2020,Phra Nakhon Si Ayutthaya ,57745
+01-08-2020,Saraburi ,42396
+01-08-2020,Chainat ,10732
+01-08-2020,Nakhon Pathom ,56197
+01-08-2020,Sing Buri ,5862
+01-08-2020,Ang Thong ,4140
+01-08-2020,Nonthaburi ,31227
+01-08-2020,Pathum Thani ,12316
+01-08-2020,Samut Prakan ,20160
+01-08-2020,Samut Sakhon ,18173
+01-08-2020,Chachoengsao ,14665
+01-08-2020,Ratchaburi ,60292
+01-08-2020,Kanchanaburi ,181482
+01-08-2020,Samut Songkhram ,43662
+01-08-2020,Suphan Buri ,36057
+01-08-2020,Phetchaburi ,246334
+01-08-2020,Prachuap Khiri Khan ,215954
+01-08-2020,Chonburi ,418485
+01-08-2020,Chanthaburi ,73812
+01-08-2020,Trat ,94544
+01-08-2020,Nakhon Nayok ,136131
+01-08-2020,Prachinburi ,51381
+01-08-2020,Rayong ,105226
+01-08-2020,Sa Kaeo ,44696
+01-08-2020,Phuket ,82086
+01-08-2020,Phatthalung ,40446
+01-08-2020,Trang ,32809
+01-08-2020,Ranong ,20900
+01-08-2020,Chumphon ,56495
+01-08-2020,Pattani ,7539
+01-08-2020,Yala ,20592
+01-08-2020,Nakhon Si Thammarat ,144645
+01-08-2020,Narathiwat ,9538
+01-08-2020,Krabi ,41409
+01-08-2020,Songkhla ,136133
+01-08-2020,Phang Nga ,15316
+01-08-2020,Surat Thani ,100977
+01-08-2020,Satun ,29765
+01-08-2020,Kamphaeng Phet ,17685
+01-08-2020,Chiang Rai ,132684
+01-08-2020,Chiang Mai ,332872
+01-08-2020,Phichit ,19652
+01-08-2020,Nakhon Sawan ,46594
+01-08-2020,Tak ,70210
+01-08-2020,Phitsanulok ,83970
+01-08-2020,Phayao ,13629
+01-08-2020,Phetchabun ,80240
+01-08-2020,Phrae ,14996
+01-08-2020,Lampang ,24814
+01-08-2020,Lamphun ,11241
+01-08-2020,Mae Hong Son ,24348
+01-08-2020,Uttaradit ,23979
+01-08-2020,Uthai Thani ,16988
+01-08-2020,Sukhothai ,37027
+01-08-2020,Nan ,26918
+01-08-2020,Kalasin ,8932
+01-08-2020,Khon Kaen ,138790
+01-08-2020,Chaiyaphum ,30318
+01-08-2020,Nakhon Phanom ,26147
+01-08-2020,Nakhon Ratchasima ,317162
+01-08-2020,Buriram ,51947
+01-08-2020,Maha Sarakham ,28403
+01-08-2020,Mukdahan ,14839
+01-08-2020,Roi Et ,33945
+01-08-2020,Loei ,56511
+01-08-2020,Sisaket ,19660
+01-08-2020,Surin ,50347
+01-08-2020,Nong Khai ,66447
+01-08-2020,Bueng Kan ,16192
+01-08-2020,Udon Thani ,122858
+01-08-2020,Ubon Ratchathani ,62374
+01-08-2020,Sakon Nakhon ,39016
+01-08-2020,Yasothon ,8813
+01-08-2020,Amnat Charoen ,3835
+01-08-2020,Nong Bua Lamphu ,6190
+01-08-2021,Bangkok,114961
+01-08-2021,Lopburi ,2801
+01-08-2021,Phra Nakhon Si Ayutthaya ,5131
+01-08-2021,Saraburi ,4066
+01-08-2021,Chainat ,1349
+01-08-2021,Nakhon Pathom ,859
+01-08-2021,Sing Buri ,1099
+01-08-2021,Ang Thong ,286
+01-08-2021,Nonthaburi ,839
+01-08-2021,Pathum Thani ,752
+01-08-2021,Samut Prakan ,812
+01-08-2021,Samut Sakhon ,972
+01-08-2021,Chachoengsao ,307
+01-08-2021,Ratchaburi ,2360
+01-08-2021,Kanchanaburi ,7400
+01-08-2021,Samut Songkhram ,1464
+01-08-2021,Suphan Buri ,1922
+01-08-2021,Phetchaburi ,10658
+01-08-2021,Prachuap Khiri Khan ,12616
+01-08-2021,Chonburi ,13288
+01-08-2021,Chanthaburi ,18148
+01-08-2021,Trat ,20675
+01-08-2021,Nakhon Nayok ,1793
+01-08-2021,Prachinburi ,1521
+01-08-2021,Rayong ,14247
+01-08-2021,Sa Kaeo ,1240
+01-08-2021,Phuket ,19579
+01-08-2021,Phatthalung ,1154
+01-08-2021,Trang ,1592
+01-08-2021,Ranong ,1126
+01-08-2021,Chumphon ,1312
+01-08-2021,Pattani ,426
+01-08-2021,Yala ,373
+01-08-2021,Nakhon Si Thammarat ,6043
+01-08-2021,Narathiwat ,348
+01-08-2021,Krabi ,1079
+01-08-2021,Songkhla ,729
+01-08-2021,Phang Nga ,5333
+01-08-2021,Surat Thani ,2903
+01-08-2021,Satun ,994
+01-08-2021,Kamphaeng Phet ,4834
+01-08-2021,Chiang Rai ,25780
+01-08-2021,Chiang Mai ,52380
+01-08-2021,Phichit ,3347
+01-08-2021,Nakhon Sawan ,10309
+01-08-2021,Tak ,9451
+01-08-2021,Phitsanulok ,18020
+01-08-2021,Phayao ,4189
+01-08-2021,Phetchabun ,16366
+01-08-2021,Phrae ,5383
+01-08-2021,Lampang ,5091
+01-08-2021,Lamphun ,2196
+01-08-2021,Mae Hong Son ,8235
+01-08-2021,Uttaradit ,4309
+01-08-2021,Uthai Thani ,1435
+01-08-2021,Sukhothai ,2119
+01-08-2021,Nan ,8298
+01-08-2021,Kalasin ,808
+01-08-2021,Khon Kaen ,13007
+01-08-2021,Chaiyaphum ,3384
+01-08-2021,Nakhon Phanom ,1275
+01-08-2021,Nakhon Ratchasima ,50973
+01-08-2021,Buriram ,9847
+01-08-2021,Maha Sarakham ,1660
+01-08-2021,Mukdahan ,1418
+01-08-2021,Roi Et ,1447
+01-08-2021,Loei ,2613
+01-08-2021,Sisaket ,1550
+01-08-2021,Surin ,5829
+01-08-2021,Nong Khai ,4591
+01-08-2021,Bueng Kan ,911
+01-08-2021,Udon Thani ,5635
+01-08-2021,Ubon Ratchathani ,5699
+01-08-2021,Sakon Nakhon ,2389
+01-08-2021,Yasothon ,464
+01-08-2021,Amnat Charoen ,480
+01-08-2021,Nong Bua Lamphu ,589
+01-08-2022,Bangkok,1499278
+01-08-2022,Lopburi ,56168
+01-08-2022,Phra Nakhon Si Ayutthaya ,83266
+01-08-2022,Saraburi ,74072
+01-08-2022,Chainat ,14215
+01-08-2022,Nakhon Pathom ,60729
+01-08-2022,Sing Buri ,13524
+01-08-2022,Ang Thong ,6964
+01-08-2022,Nonthaburi ,65632
+01-08-2022,Pathum Thani ,24130
+01-08-2022,Samut Prakan ,54777
+01-08-2022,Samut Sakhon ,16038
+01-08-2022,Chachoengsao ,21770
+01-08-2022,Ratchaburi ,58986
+01-08-2022,Kanchanaburi ,218875
+01-08-2022,Samut Songkhram ,54258
+01-08-2022,Suphan Buri ,58993
+01-08-2022,Phetchaburi ,271005
+01-08-2022,Prachuap Khiri Khan ,365661
+01-08-2022,Chonburi ,765009
+01-08-2022,Chanthaburi ,77443
+01-08-2022,Trat ,97274
+01-08-2022,Nakhon Nayok ,83586
+01-08-2022,Prachinburi ,50445
+01-08-2022,Rayong ,161685
+01-08-2022,Sa Kaeo ,37255
+01-08-2022,Phuket ,491856
+01-08-2022,Phatthalung ,32934
+01-08-2022,Trang ,56566
+01-08-2022,Ranong ,28685
+01-08-2022,Chumphon ,71426
+01-08-2022,Pattani ,14708
+01-08-2022,Yala ,67464
+01-08-2022,Nakhon Si Thammarat ,115182
+01-08-2022,Narathiwat ,21767
+01-08-2022,Krabi ,75398
+01-08-2022,Songkhla ,148821
+01-08-2022,Phang Nga ,42875
+01-08-2022,Surat Thani ,257133
+01-08-2022,Satun ,66677
+01-08-2022,Kamphaeng Phet ,25809
+01-08-2022,Chiang Rai ,262558
+01-08-2022,Chiang Mai ,418941
+01-08-2022,Phichit ,27498
+01-08-2022,Nakhon Sawan ,72863
+01-08-2022,Tak ,102090
+01-08-2022,Phitsanulok ,114899
+01-08-2022,Phayao ,32293
+01-08-2022,Phetchabun ,136852
+01-08-2022,Phrae ,38523
+01-08-2022,Lampang ,43573
+01-08-2022,Lamphun ,17518
+01-08-2022,Mae Hong Son ,70601
+01-08-2022,Uttaradit ,40402
+01-08-2022,Uthai Thani ,24023
+01-08-2022,Sukhothai ,39210
+01-08-2022,Nan ,67984
+01-08-2022,Kalasin ,19821
+01-08-2022,Khon Kaen ,142631
+01-08-2022,Chaiyaphum ,44428
+01-08-2022,Nakhon Phanom ,56392
+01-08-2022,Nakhon Ratchasima ,290940
+01-08-2022,Buriram ,109146
+01-08-2022,Maha Sarakham ,22773
+01-08-2022,Mukdahan ,35092
+01-08-2022,Roi Et ,22099
+01-08-2022,Loei ,86649
+01-08-2022,Sisaket ,25774
+01-08-2022,Surin ,44959
+01-08-2022,Nong Khai ,65489
+01-08-2022,Bueng Kan ,29857
+01-08-2022,Udon Thani ,106666
+01-08-2022,Ubon Ratchathani ,76761
+01-08-2022,Sakon Nakhon ,47577
+01-08-2022,Yasothon ,10025
+01-08-2022,Amnat Charoen ,5412
+01-08-2022,Nong Bua Lamphu ,7219
+01-09-2019,Bangkok,2838616
+01-09-2019,Lopburi ,34959
+01-09-2019,Phra Nakhon Si Ayutthaya ,69618
+01-09-2019,Saraburi ,51166
+01-09-2019,Chainat ,23130
+01-09-2019,Nakhon Pathom ,99862
+01-09-2019,Sing Buri ,14284
+01-09-2019,Ang Thong ,15076
+01-09-2019,Nonthaburi ,73064
+01-09-2019,Pathum Thani ,32958
+01-09-2019,Samut Prakan ,85854
+01-09-2019,Samut Sakhon ,44943
+01-09-2019,Chachoengsao ,39815
+01-09-2019,Ratchaburi ,69885
+01-09-2019,Kanchanaburi ,217147
+01-09-2019,Samut Songkhram ,49155
+01-09-2019,Suphan Buri ,62835
+01-09-2019,Phetchaburi ,287466
+01-09-2019,Prachuap Khiri Khan ,277715
+01-09-2019,Chonburi ,1050750
+01-09-2019,Chanthaburi ,117448
+01-09-2019,Trat ,142205
+01-09-2019,Nakhon Nayok ,161697
+01-09-2019,Prachinburi ,78292
+01-09-2019,Rayong ,267300
+01-09-2019,Sa Kaeo ,64395
+01-09-2019,Phuket ,765910
+01-09-2019,Phatthalung ,62581
+01-09-2019,Trang ,64134
+01-09-2019,Ranong ,62471
+01-09-2019,Chumphon ,92956
+01-09-2019,Pattani ,19752
+01-09-2019,Yala ,55453
+01-09-2019,Nakhon Si Thammarat ,200381
+01-09-2019,Narathiwat ,51463
+01-09-2019,Krabi ,267973
+01-09-2019,Songkhla ,455115
+01-09-2019,Phang Nga ,75322
+01-09-2019,Surat Thani ,474198
+01-09-2019,Satun ,47319
+01-09-2019,Kamphaeng Phet ,24923
+01-09-2019,Chiang Rai ,212502
+01-09-2019,Chiang Mai ,563755
+01-09-2019,Phichit ,33608
+01-09-2019,Nakhon Sawan ,65829
+01-09-2019,Tak ,92265
+01-09-2019,Phitsanulok ,134840
+01-09-2019,Phayao ,17387
+01-09-2019,Phetchabun ,125447
+01-09-2019,Phrae ,28105
+01-09-2019,Lampang ,34930
+01-09-2019,Lamphun ,16109
+01-09-2019,Mae Hong Son ,40667
+01-09-2019,Uttaradit ,31725
+01-09-2019,Uthai Thani ,24768
+01-09-2019,Sukhothai ,55767
+01-09-2019,Nan ,40663
+01-09-2019,Kalasin ,18557
+01-09-2019,Khon Kaen ,197299
+01-09-2019,Chaiyaphum ,90970
+01-09-2019,Nakhon Phanom ,36337
+01-09-2019,Nakhon Ratchasima ,451322
+01-09-2019,Buriram ,77493
+01-09-2019,Maha Sarakham ,33691
+01-09-2019,Mukdahan ,42619
+01-09-2019,Roi Et ,35049
+01-09-2019,Loei ,72921
+01-09-2019,Sisaket ,29785
+01-09-2019,Surin ,75889
+01-09-2019,Nong Khai ,90451
+01-09-2019,Bueng Kan ,20940
+01-09-2019,Udon Thani ,173269
+01-09-2019,Ubon Ratchathani ,68283
+01-09-2019,Sakon Nakhon ,48805
+01-09-2019,Yasothon ,14471
+01-09-2019,Amnat Charoen ,6886
+01-09-2019,Nong Bua Lamphu ,11544
+01-09-2020,Bangkok,764077
+01-09-2020,Lopburi ,22268
+01-09-2020,Phra Nakhon Si Ayutthaya ,60011
+01-09-2020,Saraburi ,43543
+01-09-2020,Chainat ,12546
+01-09-2020,Nakhon Pathom ,59495
+01-09-2020,Sing Buri ,6051
+01-09-2020,Ang Thong ,4777
+01-09-2020,Nonthaburi ,35600
+01-09-2020,Pathum Thani ,14656
+01-09-2020,Samut Prakan ,22593
+01-09-2020,Samut Sakhon ,19697
+01-09-2020,Chachoengsao ,17957
+01-09-2020,Ratchaburi ,56962
+01-09-2020,Kanchanaburi ,188828
+01-09-2020,Samut Songkhram ,43315
+01-09-2020,Suphan Buri ,36606
+01-09-2020,Phetchaburi ,250890
+01-09-2020,Prachuap Khiri Khan ,204470
+01-09-2020,Chonburi ,393027
+01-09-2020,Chanthaburi ,76157
+01-09-2020,Trat ,83921
+01-09-2020,Nakhon Nayok ,135272
+01-09-2020,Prachinburi ,53087
+01-09-2020,Rayong ,109834
+01-09-2020,Sa Kaeo ,40770
+01-09-2020,Phuket ,129927
+01-09-2020,Phatthalung ,42766
+01-09-2020,Trang ,35970
+01-09-2020,Ranong ,19360
+01-09-2020,Chumphon ,44841
+01-09-2020,Pattani ,8362
+01-09-2020,Yala ,15161
+01-09-2020,Nakhon Si Thammarat ,202468
+01-09-2020,Narathiwat ,11087
+01-09-2020,Krabi ,36347
+01-09-2020,Songkhla ,142006
+01-09-2020,Phang Nga ,19873
+01-09-2020,Surat Thani ,106453
+01-09-2020,Satun ,35403
+01-09-2020,Kamphaeng Phet ,19259
+01-09-2020,Chiang Rai ,139458
+01-09-2020,Chiang Mai ,300060
+01-09-2020,Phichit ,21069
+01-09-2020,Nakhon Sawan ,48624
+01-09-2020,Tak ,67824
+01-09-2020,Phitsanulok ,92613
+01-09-2020,Phayao ,13025
+01-09-2020,Phetchabun ,82940
+01-09-2020,Phrae ,16527
+01-09-2020,Lampang ,28987
+01-09-2020,Lamphun ,12436
+01-09-2020,Mae Hong Son ,25267
+01-09-2020,Uttaradit ,24825
+01-09-2020,Uthai Thani ,18280
+01-09-2020,Sukhothai ,39580
+01-09-2020,Nan ,28416
+01-09-2020,Kalasin ,9798
+01-09-2020,Khon Kaen ,140327
+01-09-2020,Chaiyaphum ,35629
+01-09-2020,Nakhon Phanom ,25827
+01-09-2020,Nakhon Ratchasima ,320656
+01-09-2020,Buriram ,52691
+01-09-2020,Maha Sarakham ,26442
+01-09-2020,Mukdahan ,15281
+01-09-2020,Roi Et ,31188
+01-09-2020,Loei ,55228
+01-09-2020,Sisaket ,20868
+01-09-2020,Surin ,51598
+01-09-2020,Nong Khai ,63730
+01-09-2020,Bueng Kan ,17150
+01-09-2020,Udon Thani ,118046
+01-09-2020,Ubon Ratchathani ,67410
+01-09-2020,Sakon Nakhon ,40289
+01-09-2020,Yasothon ,10286
+01-09-2020,Amnat Charoen ,4239
+01-09-2020,Nong Bua Lamphu ,6814
+01-09-2021,Bangkok,230832
+01-09-2021,Lopburi ,6965
+01-09-2021,Phra Nakhon Si Ayutthaya ,16045
+01-09-2021,Saraburi ,9130
+01-09-2021,Chainat ,3743
+01-09-2021,Nakhon Pathom ,6032
+01-09-2021,Sing Buri ,3316
+01-09-2021,Ang Thong ,1469
+01-09-2021,Nonthaburi ,4873
+01-09-2021,Pathum Thani ,3990
+01-09-2021,Samut Prakan ,4764
+01-09-2021,Samut Sakhon ,2860
+01-09-2021,Chachoengsao ,2288
+01-09-2021,Ratchaburi ,11197
+01-09-2021,Kanchanaburi ,57564
+01-09-2021,Samut Songkhram ,12397
+01-09-2021,Suphan Buri ,8985
+01-09-2021,Phetchaburi ,50513
+01-09-2021,Prachuap Khiri Khan ,60088
+01-09-2021,Chonburi ,93480
+01-09-2021,Chanthaburi ,20481
+01-09-2021,Trat ,30630
+01-09-2021,Nakhon Nayok ,5440
+01-09-2021,Prachinburi ,6376
+01-09-2021,Rayong ,17275
+01-09-2021,Sa Kaeo ,3685
+01-09-2021,Phuket ,63589
+01-09-2021,Phatthalung ,1273
+01-09-2021,Trang ,3783
+01-09-2021,Ranong ,2095
+01-09-2021,Chumphon ,1871
+01-09-2021,Pattani ,1051
+01-09-2021,Yala ,533
+01-09-2021,Nakhon Si Thammarat ,6758
+01-09-2021,Narathiwat ,687
+01-09-2021,Krabi ,2573
+01-09-2021,Songkhla ,1018
+01-09-2021,Phang Nga ,8503
+01-09-2021,Surat Thani ,3159
+01-09-2021,Satun ,1304
+01-09-2021,Kamphaeng Phet ,5604
+01-09-2021,Chiang Rai ,48199
+01-09-2021,Chiang Mai ,125275
+01-09-2021,Phichit ,2940
+01-09-2021,Nakhon Sawan ,12280
+01-09-2021,Tak ,14461
+01-09-2021,Phitsanulok ,23486
+01-09-2021,Phayao ,5793
+01-09-2021,Phetchabun ,22618
+01-09-2021,Phrae ,9204
+01-09-2021,Lampang ,6883
+01-09-2021,Lamphun ,2830
+01-09-2021,Mae Hong Son ,11022
+01-09-2021,Uttaradit ,4803
+01-09-2021,Uthai Thani ,1628
+01-09-2021,Sukhothai ,3029
+01-09-2021,Nan ,18260
+01-09-2021,Kalasin ,1088
+01-09-2021,Khon Kaen ,22740
+01-09-2021,Chaiyaphum ,4684
+01-09-2021,Nakhon Phanom ,4257
+01-09-2021,Nakhon Ratchasima ,91468
+01-09-2021,Buriram ,15873
+01-09-2021,Maha Sarakham ,2447
+01-09-2021,Mukdahan ,4595
+01-09-2021,Roi Et ,1968
+01-09-2021,Loei ,6105
+01-09-2021,Sisaket ,4359
+01-09-2021,Surin ,6667
+01-09-2021,Nong Khai ,7439
+01-09-2021,Bueng Kan ,1225
+01-09-2021,Udon Thani ,6913
+01-09-2021,Ubon Ratchathani ,14667
+01-09-2021,Sakon Nakhon ,4387
+01-09-2021,Yasothon ,1107
+01-09-2021,Amnat Charoen ,988
+01-09-2021,Nong Bua Lamphu ,745
+01-09-2022,Bangkok,1589796
+01-09-2022,Lopburi ,51028
+01-09-2022,Phra Nakhon Si Ayutthaya ,69577
+01-09-2022,Saraburi ,60746
+01-09-2022,Chainat ,15162
+01-09-2022,Nakhon Pathom ,90952
+01-09-2022,Sing Buri ,11813
+01-09-2022,Ang Thong ,6375
+01-09-2022,Nonthaburi ,63222
+01-09-2022,Pathum Thani ,23153
+01-09-2022,Samut Prakan ,52990
+01-09-2022,Samut Sakhon ,15617
+01-09-2022,Chachoengsao ,21108
+01-09-2022,Ratchaburi ,61015
+01-09-2022,Kanchanaburi ,229786
+01-09-2022,Samut Songkhram ,56982
+01-09-2022,Suphan Buri ,61061
+01-09-2022,Phetchaburi ,278130
+01-09-2022,Prachuap Khiri Khan ,386178
+01-09-2022,Chonburi ,716099
+01-09-2022,Chanthaburi ,73494
+01-09-2022,Trat ,91665
+01-09-2022,Nakhon Nayok ,84399
+01-09-2022,Prachinburi ,51222
+01-09-2022,Rayong ,160525
+01-09-2022,Sa Kaeo ,37931
+01-09-2022,Phuket ,493943
+01-09-2022,Phatthalung ,31155
+01-09-2022,Trang ,61459
+01-09-2022,Ranong ,29994
+01-09-2022,Chumphon ,76248
+01-09-2022,Pattani ,15542
+01-09-2022,Yala ,72825
+01-09-2022,Nakhon Si Thammarat ,120657
+01-09-2022,Narathiwat ,25139
+01-09-2022,Krabi ,79337
+01-09-2022,Songkhla ,175875
+01-09-2022,Phang Nga ,40533
+01-09-2022,Surat Thani ,245309
+01-09-2022,Satun ,61167
+01-09-2022,Kamphaeng Phet ,27207
+01-09-2022,Chiang Rai ,282616
+01-09-2022,Chiang Mai ,446430
+01-09-2022,Phichit ,28072
+01-09-2022,Nakhon Sawan ,72069
+01-09-2022,Tak ,108652
+01-09-2022,Phitsanulok ,113158
+01-09-2022,Phayao ,34603
+01-09-2022,Phetchabun ,141204
+01-09-2022,Phrae ,40375
+01-09-2022,Lampang ,44994
+01-09-2022,Lamphun ,17805
+01-09-2022,Mae Hong Son ,68666
+01-09-2022,Uttaradit ,40015
+01-09-2022,Uthai Thani ,23819
+01-09-2022,Sukhothai ,38078
+01-09-2022,Nan ,71969
+01-09-2022,Kalasin ,19248
+01-09-2022,Khon Kaen ,138431
+01-09-2022,Chaiyaphum ,42116
+01-09-2022,Nakhon Phanom ,58144
+01-09-2022,Nakhon Ratchasima ,277363
+01-09-2022,Buriram ,139388
+01-09-2022,Maha Sarakham ,23846
+01-09-2022,Mukdahan ,35672
+01-09-2022,Roi Et ,21025
+01-09-2022,Loei ,88856
+01-09-2022,Sisaket ,24821
+01-09-2022,Surin ,52303
+01-09-2022,Nong Khai ,64333
+01-09-2022,Bueng Kan ,30918
+01-09-2022,Udon Thani ,104210
+01-09-2022,Ubon Ratchathani ,74944
+01-09-2022,Sakon Nakhon ,76738
+01-09-2022,Yasothon ,9815
+01-09-2022,Amnat Charoen ,5321
+01-09-2022,Nong Bua Lamphu ,6881
+01-10-2019,Bangkok,2934737
+01-10-2019,Lopburi ,58059
+01-10-2019,Phra Nakhon Si Ayutthaya ,84926
+01-10-2019,Saraburi ,96603
+01-10-2019,Chainat ,22319
+01-10-2019,Nakhon Pathom ,105472
+01-10-2019,Sing Buri ,12324
+01-10-2019,Ang Thong ,12656
+01-10-2019,Nonthaburi ,73200
+01-10-2019,Pathum Thani ,52689
+01-10-2019,Samut Prakan ,83806
+01-10-2019,Samut Sakhon ,52029
+01-10-2019,Chachoengsao ,39094
+01-10-2019,Ratchaburi ,91879
+01-10-2019,Kanchanaburi ,276204
+01-10-2019,Samut Songkhram ,80250
+01-10-2019,Suphan Buri ,101711
+01-10-2019,Phetchaburi ,319231
+01-10-2019,Prachuap Khiri Khan ,417373
+01-10-2019,Chonburi ,1220788
+01-10-2019,Chanthaburi ,142775
+01-10-2019,Trat ,158830
+01-10-2019,Nakhon Nayok ,127806
+01-10-2019,Prachinburi ,79860
+01-10-2019,Rayong ,309859
+01-10-2019,Sa Kaeo ,64487
+01-10-2019,Phuket ,1007467
+01-10-2019,Phatthalung ,72785
+01-10-2019,Trang ,95129
+01-10-2019,Ranong ,63762
+01-10-2019,Chumphon ,82520
+01-10-2019,Pattani ,18073
+01-10-2019,Yala ,57186
+01-10-2019,Nakhon Si Thammarat ,185615
+01-10-2019,Narathiwat ,45482
+01-10-2019,Krabi ,348201
+01-10-2019,Songkhla ,446192
+01-10-2019,Phang Nga ,119352
+01-10-2019,Surat Thani ,380032
+01-10-2019,Satun ,70618
+01-10-2019,Kamphaeng Phet ,40215
+01-10-2019,Chiang Rai ,251051
+01-10-2019,Chiang Mai ,674966
+01-10-2019,Phichit ,35921
+01-10-2019,Nakhon Sawan ,75284
+01-10-2019,Tak ,137167
+01-10-2019,Phitsanulok ,158207
+01-10-2019,Phayao ,28522
+01-10-2019,Phetchabun ,206723
+01-10-2019,Phrae ,35588
+01-10-2019,Lampang ,54704
+01-10-2019,Lamphun ,20753
+01-10-2019,Mae Hong Son ,107763
+01-10-2019,Uttaradit ,61260
+01-10-2019,Uthai Thani ,29891
+01-10-2019,Sukhothai ,86569
+01-10-2019,Nan ,62008
+01-10-2019,Kalasin ,23571
+01-10-2019,Khon Kaen ,162261
+01-10-2019,Chaiyaphum ,82871
+01-10-2019,Nakhon Phanom ,37510
+01-10-2019,Nakhon Ratchasima ,566348
+01-10-2019,Buriram ,187138
+01-10-2019,Maha Sarakham ,33894
+01-10-2019,Mukdahan ,41337
+01-10-2019,Roi Et ,37628
+01-10-2019,Loei ,109871
+01-10-2019,Sisaket ,32356
+01-10-2019,Surin ,118542
+01-10-2019,Nong Khai ,96036
+01-10-2019,Bueng Kan ,30173
+01-10-2019,Udon Thani ,174153
+01-10-2019,Ubon Ratchathani ,126455
+01-10-2019,Sakon Nakhon ,59218
+01-10-2019,Yasothon ,14914
+01-10-2019,Amnat Charoen ,9898
+01-10-2019,Nong Bua Lamphu ,13588
+01-10-2020,Bangkok,868200
+01-10-2020,Lopburi ,34146
+01-10-2020,Phra Nakhon Si Ayutthaya ,60647
+01-10-2020,Saraburi ,62916
+01-10-2020,Chainat ,11344
+01-10-2020,Nakhon Pathom ,62866
+01-10-2020,Sing Buri ,6761
+01-10-2020,Ang Thong ,3874
+01-10-2020,Nonthaburi ,34665
+01-10-2020,Pathum Thani ,20856
+01-10-2020,Samut Prakan ,26620
+01-10-2020,Samut Sakhon ,20706
+01-10-2020,Chachoengsao ,21697
+01-10-2020,Ratchaburi ,57487
+01-10-2020,Kanchanaburi ,220388
+01-10-2020,Samut Songkhram ,64922
+01-10-2020,Suphan Buri ,58518
+01-10-2020,Phetchaburi ,285324
+01-10-2020,Prachuap Khiri Khan ,338238
+01-10-2020,Chonburi ,418197
+01-10-2020,Chanthaburi ,104747
+01-10-2020,Trat ,74756
+01-10-2020,Nakhon Nayok ,95363
+01-10-2020,Prachinburi ,56283
+01-10-2020,Rayong ,158258
+01-10-2020,Sa Kaeo ,28817
+01-10-2020,Phuket ,156175
+01-10-2020,Phatthalung ,51359
+01-10-2020,Trang ,44720
+01-10-2020,Ranong ,19794
+01-10-2020,Chumphon ,45888
+01-10-2020,Pattani ,8356
+01-10-2020,Yala ,61588
+01-10-2020,Nakhon Si Thammarat ,197936
+01-10-2020,Narathiwat ,11558
+01-10-2020,Krabi ,53893
+01-10-2020,Songkhla ,161620
+01-10-2020,Phang Nga ,28154
+01-10-2020,Surat Thani ,104318
+01-10-2020,Satun ,45849
+01-10-2020,Kamphaeng Phet ,30295
+01-10-2020,Chiang Rai ,169909
+01-10-2020,Chiang Mai ,469898
+01-10-2020,Phichit ,24127
+01-10-2020,Nakhon Sawan ,55167
+01-10-2020,Tak ,100253
+01-10-2020,Phitsanulok ,106841
+01-10-2020,Phayao ,21257
+01-10-2020,Phetchabun ,139542
+01-10-2020,Phrae ,20972
+01-10-2020,Lampang ,41343
+01-10-2020,Lamphun ,16728
+01-10-2020,Mae Hong Son ,67684
+01-10-2020,Uttaradit ,44047
+01-10-2020,Uthai Thani ,19683
+01-10-2020,Sukhothai ,66869
+01-10-2020,Nan ,64910
+01-10-2020,Kalasin ,13205
+01-10-2020,Khon Kaen ,147641
+01-10-2020,Chaiyaphum ,42963
+01-10-2020,Nakhon Phanom ,32744
+01-10-2020,Nakhon Ratchasima ,362428
+01-10-2020,Buriram ,53310
+01-10-2020,Maha Sarakham ,29691
+01-10-2020,Mukdahan ,21890
+01-10-2020,Roi Et ,31714
+01-10-2020,Loei ,109372
+01-10-2020,Sisaket ,22611
+01-10-2020,Surin ,58463
+01-10-2020,Nong Khai ,65524
+01-10-2020,Bueng Kan ,22991
+01-10-2020,Udon Thani ,130080
+01-10-2020,Ubon Ratchathani ,84707
+01-10-2020,Sakon Nakhon ,65331
+01-10-2020,Yasothon ,10449
+01-10-2020,Amnat Charoen ,4958
+01-10-2020,Nong Bua Lamphu ,7717
+01-10-2021,Bangkok,271942
+01-10-2021,Lopburi ,12336
+01-10-2021,Phra Nakhon Si Ayutthaya ,28760
+01-10-2021,Saraburi ,16525
+01-10-2021,Chainat ,6656
+01-10-2021,Nakhon Pathom ,13994
+01-10-2021,Sing Buri ,5718
+01-10-2021,Ang Thong ,2732
+01-10-2021,Nonthaburi ,9899
+01-10-2021,Pathum Thani ,9104
+01-10-2021,Samut Prakan ,9872
+01-10-2021,Samut Sakhon ,7612
+01-10-2021,Chachoengsao ,5667
+01-10-2021,Ratchaburi ,33133
+01-10-2021,Kanchanaburi ,166596
+01-10-2021,Samut Songkhram ,18232
+01-10-2021,Suphan Buri ,33111
+01-10-2021,Phetchaburi ,135873
+01-10-2021,Prachuap Khiri Khan ,144930
+01-10-2021,Chonburi ,191611
+01-10-2021,Chanthaburi ,41667
+01-10-2021,Trat ,47540
+01-10-2021,Nakhon Nayok ,16085
+01-10-2021,Prachinburi ,16421
+01-10-2021,Rayong ,40963
+01-10-2021,Sa Kaeo ,9601
+01-10-2021,Phuket ,78742
+01-10-2021,Phatthalung ,1844
+01-10-2021,Trang ,5601
+01-10-2021,Ranong ,4265
+01-10-2021,Chumphon ,6832
+01-10-2021,Pattani ,906
+01-10-2021,Yala ,999
+01-10-2021,Nakhon Si Thammarat ,7619
+01-10-2021,Narathiwat ,1094
+01-10-2021,Krabi ,4825
+01-10-2021,Songkhla ,5132
+01-10-2021,Phang Nga ,23920
+01-10-2021,Surat Thani ,6978
+01-10-2021,Satun ,3334
+01-10-2021,Kamphaeng Phet ,7489
+01-10-2021,Chiang Rai ,98956
+01-10-2021,Chiang Mai ,182337
+01-10-2021,Phichit ,6447
+01-10-2021,Nakhon Sawan ,18256
+01-10-2021,Tak ,17531
+01-10-2021,Phitsanulok ,37534
+01-10-2021,Phayao ,10885
+01-10-2021,Phetchabun ,70220
+01-10-2021,Phrae ,13132
+01-10-2021,Lampang ,20485
+01-10-2021,Lamphun ,9952
+01-10-2021,Mae Hong Son ,31892
+01-10-2021,Uttaradit ,10868
+01-10-2021,Uthai Thani ,2658
+01-10-2021,Sukhothai ,6884
+01-10-2021,Nan ,47859
+01-10-2021,Kalasin ,7138
+01-10-2021,Khon Kaen ,48194
+01-10-2021,Chaiyaphum ,10061
+01-10-2021,Nakhon Phanom ,10617
+01-10-2021,Nakhon Ratchasima ,136393
+01-10-2021,Buriram ,28406
+01-10-2021,Maha Sarakham ,7736
+01-10-2021,Mukdahan ,10136
+01-10-2021,Roi Et ,9259
+01-10-2021,Loei ,36480
+01-10-2021,Sisaket ,7729
+01-10-2021,Surin ,14129
+01-10-2021,Nong Khai ,16911
+01-10-2021,Bueng Kan ,4176
+01-10-2021,Udon Thani ,24458
+01-10-2021,Ubon Ratchathani ,34785
+01-10-2021,Sakon Nakhon ,15960
+01-10-2021,Yasothon ,1925
+01-10-2021,Amnat Charoen ,1607
+01-10-2021,Nong Bua Lamphu ,1353
+01-10-2022,Bangkok,1666579
+01-10-2022,Lopburi ,52904
+01-10-2022,Phra Nakhon Si Ayutthaya ,66149
+01-10-2022,Saraburi ,72404
+01-10-2022,Chainat ,14203
+01-10-2022,Nakhon Pathom ,68090
+01-10-2022,Sing Buri ,12503
+01-10-2022,Ang Thong ,5839
+01-10-2022,Nonthaburi ,61082
+01-10-2022,Pathum Thani ,25269
+01-10-2022,Samut Prakan ,63348
+01-10-2022,Samut Sakhon ,16907
+01-10-2022,Chachoengsao ,22339
+01-10-2022,Ratchaburi ,65196
+01-10-2022,Kanchanaburi ,243360
+01-10-2022,Samut Songkhram ,58110
+01-10-2022,Suphan Buri ,63194
+01-10-2022,Phetchaburi ,308030
+01-10-2022,Prachuap Khiri Khan ,456213
+01-10-2022,Chonburi ,832270
+01-10-2022,Chanthaburi ,74859
+01-10-2022,Trat ,101147
+01-10-2022,Nakhon Nayok ,87735
+01-10-2022,Prachinburi ,53389
+01-10-2022,Rayong ,182640
+01-10-2022,Sa Kaeo ,38773
+01-10-2022,Phuket ,489390
+01-10-2022,Phatthalung ,32795
+01-10-2022,Trang ,65233
+01-10-2022,Ranong ,32081
+01-10-2022,Chumphon ,78758
+01-10-2022,Pattani ,16374
+01-10-2022,Yala ,79839
+01-10-2022,Nakhon Si Thammarat ,129416
+01-10-2022,Narathiwat ,26837
+01-10-2022,Krabi ,86208
+01-10-2022,Songkhla ,168416
+01-10-2022,Phang Nga ,45911
+01-10-2022,Surat Thani ,257860
+01-10-2022,Satun ,65671
+01-10-2022,Kamphaeng Phet ,28762
+01-10-2022,Chiang Rai ,303137
+01-10-2022,Chiang Mai ,492496
+01-10-2022,Phichit ,28865
+01-10-2022,Nakhon Sawan ,75389
+01-10-2022,Tak ,115130
+01-10-2022,Phitsanulok ,122143
+01-10-2022,Phayao ,36871
+01-10-2022,Phetchabun ,149669
+01-10-2022,Phrae ,43220
+01-10-2022,Lampang ,48709
+01-10-2022,Lamphun ,19313
+01-10-2022,Mae Hong Son ,81206
+01-10-2022,Uttaradit ,42754
+01-10-2022,Uthai Thani ,23460
+01-10-2022,Sukhothai ,41114
+01-10-2022,Nan ,79593
+01-10-2022,Kalasin ,19352
+01-10-2022,Khon Kaen ,146040
+01-10-2022,Chaiyaphum ,47589
+01-10-2022,Nakhon Phanom ,63103
+01-10-2022,Nakhon Ratchasima ,300164
+01-10-2022,Buriram ,193238
+01-10-2022,Maha Sarakham ,23338
+01-10-2022,Mukdahan ,39314
+01-10-2022,Roi Et ,24047
+01-10-2022,Loei ,93605
+01-10-2022,Sisaket ,23359
+01-10-2022,Surin ,65192
+01-10-2022,Nong Khai ,65973
+01-10-2022,Bueng Kan ,32195
+01-10-2022,Udon Thani ,106566
+01-10-2022,Ubon Ratchathani ,71278
+01-10-2022,Sakon Nakhon ,57142
+01-10-2022,Yasothon ,9443
+01-10-2022,Amnat Charoen ,5784
+01-10-2022,Nong Bua Lamphu ,7615
+01-11-2019,Bangkok,3039784
+01-11-2019,Lopburi ,61855
+01-11-2019,Phra Nakhon Si Ayutthaya ,87169
+01-11-2019,Saraburi ,95772
+01-11-2019,Chainat ,22758
+01-11-2019,Nakhon Pathom ,106895
+01-11-2019,Sing Buri ,12077
+01-11-2019,Ang Thong ,10564
+01-11-2019,Nonthaburi ,90673
+01-11-2019,Pathum Thani ,54862
+01-11-2019,Samut Prakan ,96402
+01-11-2019,Samut Sakhon ,53571
+01-11-2019,Chachoengsao ,40612
+01-11-2019,Ratchaburi ,98012
+01-11-2019,Kanchanaburi ,322062
+01-11-2019,Samut Songkhram ,91689
+01-11-2019,Suphan Buri ,106474
+01-11-2019,Phetchaburi ,306354
+01-11-2019,Prachuap Khiri Khan ,432497
+01-11-2019,Chonburi ,1319409
+01-11-2019,Chanthaburi ,132847
+01-11-2019,Trat ,153704
+01-11-2019,Nakhon Nayok ,121675
+01-11-2019,Prachinburi ,81485
+01-11-2019,Rayong ,334314
+01-11-2019,Sa Kaeo ,61306
+01-11-2019,Phuket ,963468
+01-11-2019,Phatthalung ,63971
+01-11-2019,Trang ,93115
+01-11-2019,Ranong ,64724
+01-11-2019,Chumphon ,81839
+01-11-2019,Pattani ,18901
+01-11-2019,Yala ,51323
+01-11-2019,Nakhon Si Thammarat ,171935
+01-11-2019,Narathiwat ,45243
+01-11-2019,Krabi ,334303
+01-11-2019,Songkhla ,455924
+01-11-2019,Phang Nga ,110385
+01-11-2019,Surat Thani ,321592
+01-11-2019,Satun ,71919
+01-11-2019,Kamphaeng Phet ,46256
+01-11-2019,Chiang Rai ,302293
+01-11-2019,Chiang Mai ,774996
+01-11-2019,Phichit ,34967
+01-11-2019,Nakhon Sawan ,81894
+01-11-2019,Tak ,166042
+01-11-2019,Phitsanulok ,157276
+01-11-2019,Phayao ,31411
+01-11-2019,Phetchabun ,236869
+01-11-2019,Phrae ,38308
+01-11-2019,Lampang ,64867
+01-11-2019,Lamphun ,24251
+01-11-2019,Mae Hong Son ,129692
+01-11-2019,Uttaradit ,73118
+01-11-2019,Uthai Thani ,34094
+01-11-2019,Sukhothai ,97417
+01-11-2019,Nan ,67483
+01-11-2019,Kalasin ,20873
+01-11-2019,Khon Kaen ,169690
+01-11-2019,Chaiyaphum ,79618
+01-11-2019,Nakhon Phanom ,35896
+01-11-2019,Nakhon Ratchasima ,464697
+01-11-2019,Buriram ,86220
+01-11-2019,Maha Sarakham ,35834
+01-11-2019,Mukdahan ,40044
+01-11-2019,Roi Et ,31627
+01-11-2019,Loei ,124336
+01-11-2019,Sisaket ,29274
+01-11-2019,Surin ,99900
+01-11-2019,Nong Khai ,86834
+01-11-2019,Bueng Kan ,30572
+01-11-2019,Udon Thani ,161082
+01-11-2019,Ubon Ratchathani ,124724
+01-11-2019,Sakon Nakhon ,58802
+01-11-2019,Yasothon ,15326
+01-11-2019,Amnat Charoen ,9432
+01-11-2019,Nong Bua Lamphu ,14246
+01-11-2020,Bangkok,1047121
+01-11-2020,Lopburi ,44863
+01-11-2020,Phra Nakhon Si Ayutthaya ,70456
+01-11-2020,Saraburi ,77077
+01-11-2020,Chainat ,15316
+01-11-2020,Nakhon Pathom ,69677
+01-11-2020,Sing Buri ,8942
+01-11-2020,Ang Thong ,4972
+01-11-2020,Nonthaburi ,59852
+01-11-2020,Pathum Thani ,25460
+01-11-2020,Samut Prakan ,47748
+01-11-2020,Samut Sakhon ,28403
+01-11-2020,Chachoengsao ,29200
+01-11-2020,Ratchaburi ,85348
+01-11-2020,Kanchanaburi ,249372
+01-11-2020,Samut Songkhram ,78670
+01-11-2020,Suphan Buri ,78661
+01-11-2020,Phetchaburi ,277726
+01-11-2020,Prachuap Khiri Khan ,361113
+01-11-2020,Chonburi ,593135
+01-11-2020,Chanthaburi ,118169
+01-11-2020,Trat ,103150
+01-11-2020,Nakhon Nayok ,101018
+01-11-2020,Prachinburi ,66646
+01-11-2020,Rayong ,236366
+01-11-2020,Sa Kaeo ,33992
+01-11-2020,Phuket ,156307
+01-11-2020,Phatthalung ,52579
+01-11-2020,Trang ,45172
+01-11-2020,Ranong ,18586
+01-11-2020,Chumphon ,44648
+01-11-2020,Pattani ,9515
+01-11-2020,Yala ,69102
+01-11-2020,Nakhon Si Thammarat ,200227
+01-11-2020,Narathiwat ,13021
+01-11-2020,Krabi ,55765
+01-11-2020,Songkhla ,164094
+01-11-2020,Phang Nga ,28106
+01-11-2020,Surat Thani ,104288
+01-11-2020,Satun ,54052
+01-11-2020,Kamphaeng Phet ,31894
+01-11-2020,Chiang Rai ,226721
+01-11-2020,Chiang Mai ,583901
+01-11-2020,Phichit ,28804
+01-11-2020,Nakhon Sawan ,64975
+01-11-2020,Tak ,118806
+01-11-2020,Phitsanulok ,108763
+01-11-2020,Phayao ,25537
+01-11-2020,Phetchabun ,178433
+01-11-2020,Phrae ,29269
+01-11-2020,Lampang ,49447
+01-11-2020,Lamphun ,20369
+01-11-2020,Mae Hong Son ,106318
+01-11-2020,Uttaradit ,56736
+01-11-2020,Uthai Thani ,26452
+01-11-2020,Sukhothai ,61740
+01-11-2020,Nan ,82848
+01-11-2020,Kalasin ,16513
+01-11-2020,Khon Kaen ,157365
+01-11-2020,Chaiyaphum ,61301
+01-11-2020,Nakhon Phanom ,34452
+01-11-2020,Nakhon Ratchasima ,377642
+01-11-2020,Buriram ,68306
+01-11-2020,Maha Sarakham ,36067
+01-11-2020,Mukdahan ,26608
+01-11-2020,Roi Et ,30810
+01-11-2020,Loei ,135083
+01-11-2020,Sisaket ,23829
+01-11-2020,Surin ,71275
+01-11-2020,Nong Khai ,76764
+01-11-2020,Bueng Kan ,27863
+01-11-2020,Udon Thani ,141007
+01-11-2020,Ubon Ratchathani ,99952
+01-11-2020,Sakon Nakhon ,49081
+01-11-2020,Yasothon ,9860
+01-11-2020,Amnat Charoen ,5787
+01-11-2020,Nong Bua Lamphu ,9424
+01-11-2021,Bangkok,507770
+01-11-2021,Lopburi ,35981
+01-11-2021,Phra Nakhon Si Ayutthaya ,48387
+01-11-2021,Saraburi ,52117
+01-11-2021,Chainat ,11945
+01-11-2021,Nakhon Pathom ,33083
+01-11-2021,Sing Buri ,7742
+01-11-2021,Ang Thong ,4113
+01-11-2021,Nonthaburi ,30475
+01-11-2021,Pathum Thani ,21717
+01-11-2021,Samut Prakan ,25275
+01-11-2021,Samut Sakhon ,10700
+01-11-2021,Chachoengsao ,11229
+01-11-2021,Ratchaburi ,62545
+01-11-2021,Kanchanaburi ,233580
+01-11-2021,Samut Songkhram ,30625
+01-11-2021,Suphan Buri ,53647
+01-11-2021,Phetchaburi ,197179
+01-11-2021,Prachuap Khiri Khan ,249212
+01-11-2021,Chonburi ,481065
+01-11-2021,Chanthaburi ,92444
+01-11-2021,Trat ,91952
+01-11-2021,Nakhon Nayok ,92136
+01-11-2021,Prachinburi ,53872
+01-11-2021,Rayong ,190848
+01-11-2021,Sa Kaeo ,34877
+01-11-2021,Phuket ,134273
+01-11-2021,Phatthalung ,10528
+01-11-2021,Trang ,19893
+01-11-2021,Ranong ,8701
+01-11-2021,Chumphon ,25995
+01-11-2021,Pattani ,3670
+01-11-2021,Yala ,6468
+01-11-2021,Nakhon Si Thammarat ,16476
+01-11-2021,Narathiwat ,2143
+01-11-2021,Krabi ,37452
+01-11-2021,Songkhla ,17554
+01-11-2021,Phang Nga ,27545
+01-11-2021,Surat Thani ,22151
+01-11-2021,Satun ,35512
+01-11-2021,Kamphaeng Phet ,21266
+01-11-2021,Chiang Rai ,206000
+01-11-2021,Chiang Mai ,488905
+01-11-2021,Phichit ,12736
+01-11-2021,Nakhon Sawan ,40200
+01-11-2021,Tak ,48326
+01-11-2021,Phitsanulok ,85446
+01-11-2021,Phayao ,23966
+01-11-2021,Phetchabun ,110087
+01-11-2021,Phrae ,28396
+01-11-2021,Lampang ,34240
+01-11-2021,Lamphun ,13835
+01-11-2021,Mae Hong Son ,70550
+01-11-2021,Uttaradit ,32893
+01-11-2021,Uthai Thani ,11732
+01-11-2021,Sukhothai ,34164
+01-11-2021,Nan ,78139
+01-11-2021,Kalasin ,14542
+01-11-2021,Khon Kaen ,87300
+01-11-2021,Chaiyaphum ,27743
+01-11-2021,Nakhon Phanom ,24012
+01-11-2021,Nakhon Ratchasima ,271437
+01-11-2021,Buriram ,40626
+01-11-2021,Maha Sarakham ,11591
+01-11-2021,Mukdahan ,26712
+01-11-2021,Roi Et ,11535
+01-11-2021,Loei ,67749
+01-11-2021,Sisaket ,19132
+01-11-2021,Surin ,27818
+01-11-2021,Nong Khai ,39184
+01-11-2021,Bueng Kan ,7604
+01-11-2021,Udon Thani ,52603
+01-11-2021,Ubon Ratchathani ,60500
+01-11-2021,Sakon Nakhon ,46062
+01-11-2021,Yasothon ,3808
+01-11-2021,Amnat Charoen ,3076
+01-11-2021,Nong Bua Lamphu ,3081
+01-11-2022,Bangkok,1942938
+01-11-2022,Lopburi ,56397
+01-11-2022,Phra Nakhon Si Ayutthaya ,79253
+01-11-2022,Saraburi ,84640
+01-11-2022,Chainat ,13547
+01-11-2022,Nakhon Pathom ,85433
+01-11-2022,Sing Buri ,13921
+01-11-2022,Ang Thong ,7961
+01-11-2022,Nonthaburi ,70146
+01-11-2022,Pathum Thani ,34060
+01-11-2022,Samut Prakan ,67914
+01-11-2022,Samut Sakhon ,23405
+01-11-2022,Chachoengsao ,26741
+01-11-2022,Ratchaburi ,69905
+01-11-2022,Kanchanaburi ,257582
+01-11-2022,Samut Songkhram ,65755
+01-11-2022,Suphan Buri ,66189
+01-11-2022,Phetchaburi ,316488
+01-11-2022,Prachuap Khiri Khan ,488942
+01-11-2022,Chonburi ,1145160
+01-11-2022,Chanthaburi ,76234
+01-11-2022,Trat ,98648
+01-11-2022,Nakhon Nayok ,86089
+01-11-2022,Prachinburi ,54579
+01-11-2022,Rayong ,224156
+01-11-2022,Sa Kaeo ,37213
+01-11-2022,Phuket ,617572
+01-11-2022,Phatthalung ,34367
+01-11-2022,Trang ,62408
+01-11-2022,Ranong ,33747
+01-11-2022,Chumphon ,81738
+01-11-2022,Pattani ,15363
+01-11-2022,Yala ,82710
+01-11-2022,Nakhon Si Thammarat ,134361
+01-11-2022,Narathiwat ,25570
+01-11-2022,Krabi ,96346
+01-11-2022,Songkhla ,158927
+01-11-2022,Phang Nga ,53461
+01-11-2022,Surat Thani ,267805
+01-11-2022,Satun ,62834
+01-11-2022,Kamphaeng Phet ,31346
+01-11-2022,Chiang Rai ,355701
+01-11-2022,Chiang Mai ,634697
+01-11-2022,Phichit ,31738
+01-11-2022,Nakhon Sawan ,82118
+01-11-2022,Tak ,138675
+01-11-2022,Phitsanulok ,132398
+01-11-2022,Phayao ,40453
+01-11-2022,Phetchabun ,169807
+01-11-2022,Phrae ,46151
+01-11-2022,Lampang ,56389
+01-11-2022,Lamphun ,22281
+01-11-2022,Mae Hong Son ,89215
+01-11-2022,Uttaradit ,45502
+01-11-2022,Uthai Thani ,25298
+01-11-2022,Sukhothai ,48411
+01-11-2022,Nan ,85948
+01-11-2022,Kalasin ,19946
+01-11-2022,Khon Kaen ,166964
+01-11-2022,Chaiyaphum ,46668
+01-11-2022,Nakhon Phanom ,57023
+01-11-2022,Nakhon Ratchasima ,314951
+01-11-2022,Buriram ,117539
+01-11-2022,Maha Sarakham ,24207
+01-11-2022,Mukdahan ,38734
+01-11-2022,Roi Et ,24352
+01-11-2022,Loei ,97739
+01-11-2022,Sisaket ,23861
+01-11-2022,Surin ,76423
+01-11-2022,Nong Khai ,64414
+01-11-2022,Bueng Kan ,31232
+01-11-2022,Udon Thani ,103471
+01-11-2022,Ubon Ratchathani ,78351
+01-11-2022,Sakon Nakhon ,55106
+01-11-2022,Yasothon ,9642
+01-11-2022,Amnat Charoen ,6045
+01-11-2022,Nong Bua Lamphu ,7530
+01-12-2019,Bangkok,3335728
+01-12-2019,Lopburi ,62532
+01-12-2019,Phra Nakhon Si Ayutthaya ,98062
+01-12-2019,Saraburi ,98573
+01-12-2019,Chainat ,24993
+01-12-2019,Nakhon Pathom ,109180
+01-12-2019,Sing Buri ,13124
+01-12-2019,Ang Thong ,11991
+01-12-2019,Nonthaburi ,88480
+01-12-2019,Pathum Thani ,64010
+01-12-2019,Samut Prakan ,99259
+01-12-2019,Samut Sakhon ,51444
+01-12-2019,Chachoengsao ,37466
+01-12-2019,Ratchaburi ,109829
+01-12-2019,Kanchanaburi ,324550
+01-12-2019,Samut Songkhram ,97734
+01-12-2019,Suphan Buri ,100006
+01-12-2019,Phetchaburi ,377609
+01-12-2019,Prachuap Khiri Khan ,493313
+01-12-2019,Chonburi ,1270383
+01-12-2019,Chanthaburi ,145003
+01-12-2019,Trat ,170268
+01-12-2019,Nakhon Nayok ,125172
+01-12-2019,Prachinburi ,84927
+01-12-2019,Rayong ,332269
+01-12-2019,Sa Kaeo ,70987
+01-12-2019,Phuket ,1406031
+01-12-2019,Phatthalung ,58461
+01-12-2019,Trang ,85793
+01-12-2019,Ranong ,64372
+01-12-2019,Chumphon ,90924
+01-12-2019,Pattani ,19236
+01-12-2019,Yala ,46519
+01-12-2019,Nakhon Si Thammarat ,192991
+01-12-2019,Narathiwat ,48920
+01-12-2019,Krabi ,487292
+01-12-2019,Songkhla ,460147
+01-12-2019,Phang Nga ,110949
+01-12-2019,Surat Thani ,459926
+01-12-2019,Satun ,74817
+01-12-2019,Kamphaeng Phet ,55016
+01-12-2019,Chiang Rai ,378014
+01-12-2019,Chiang Mai ,933415
+01-12-2019,Phichit ,39137
+01-12-2019,Nakhon Sawan ,93206
+01-12-2019,Tak ,174094
+01-12-2019,Phitsanulok ,178176
+01-12-2019,Phayao ,36532
+01-12-2019,Phetchabun ,272449
+01-12-2019,Phrae ,45280
+01-12-2019,Lampang ,67662
+01-12-2019,Lamphun ,27613
+01-12-2019,Mae Hong Son ,157667
+01-12-2019,Uttaradit ,78401
+01-12-2019,Uthai Thani ,33635
+01-12-2019,Sukhothai ,106945
+01-12-2019,Nan ,75556
+01-12-2019,Kalasin ,21723
+01-12-2019,Khon Kaen ,169406
+01-12-2019,Chaiyaphum ,84805
+01-12-2019,Nakhon Phanom ,36039
+01-12-2019,Nakhon Ratchasima ,496562
+01-12-2019,Buriram ,95436
+01-12-2019,Maha Sarakham ,35432
+01-12-2019,Mukdahan ,43001
+01-12-2019,Roi Et ,33917
+01-12-2019,Loei ,156751
+01-12-2019,Sisaket ,33851
+01-12-2019,Surin ,91993
+01-12-2019,Nong Khai ,103353
+01-12-2019,Bueng Kan ,31567
+01-12-2019,Udon Thani ,178173
+01-12-2019,Ubon Ratchathani ,141430
+01-12-2019,Sakon Nakhon ,61950
+01-12-2019,Yasothon ,16623
+01-12-2019,Amnat Charoen ,10574
+01-12-2019,Nong Bua Lamphu ,15642
+01-12-2020,Bangkok,946689
+01-12-2020,Lopburi ,47631
+01-12-2020,Phra Nakhon Si Ayutthaya ,60653
+01-12-2020,Saraburi ,61031
+01-12-2020,Chainat ,13468
+01-12-2020,Nakhon Pathom ,67022
+01-12-2020,Sing Buri ,6422
+01-12-2020,Ang Thong ,5061
+01-12-2020,Nonthaburi ,52760
+01-12-2020,Pathum Thani ,23277
+01-12-2020,Samut Prakan ,44205
+01-12-2020,Samut Sakhon ,8509
+01-12-2020,Chachoengsao ,23032
+01-12-2020,Ratchaburi ,74582
+01-12-2020,Kanchanaburi ,221651
+01-12-2020,Samut Songkhram ,65518
+01-12-2020,Suphan Buri ,70635
+01-12-2020,Phetchaburi ,240753
+01-12-2020,Prachuap Khiri Khan ,318247
+01-12-2020,Chonburi ,528203
+01-12-2020,Chanthaburi ,89898
+01-12-2020,Trat ,103392
+01-12-2020,Nakhon Nayok ,81766
+01-12-2020,Prachinburi ,55694
+01-12-2020,Rayong ,192633
+01-12-2020,Sa Kaeo ,42465
+01-12-2020,Phuket ,148645
+01-12-2020,Phatthalung ,45437
+01-12-2020,Trang ,42136
+01-12-2020,Ranong ,16366
+01-12-2020,Chumphon ,39479
+01-12-2020,Pattani ,8663
+01-12-2020,Yala ,72895
+01-12-2020,Nakhon Si Thammarat ,190821
+01-12-2020,Narathiwat ,10881
+01-12-2020,Krabi ,60367
+01-12-2020,Songkhla ,164174
+01-12-2020,Phang Nga ,30215
+01-12-2020,Surat Thani ,93616
+01-12-2020,Satun ,51402
+01-12-2020,Kamphaeng Phet ,34564
+01-12-2020,Chiang Rai ,208058
+01-12-2020,Chiang Mai ,537846
+01-12-2020,Phichit ,23691
+01-12-2020,Nakhon Sawan ,59931
+01-12-2020,Tak ,101076
+01-12-2020,Phitsanulok ,106071
+01-12-2020,Phayao ,19363
+01-12-2020,Phetchabun ,173990
+01-12-2020,Phrae ,38973
+01-12-2020,Lampang ,43286
+01-12-2020,Lamphun ,16547
+01-12-2020,Mae Hong Son ,77183
+01-12-2020,Uttaradit ,46310
+01-12-2020,Uthai Thani ,20269
+01-12-2020,Sukhothai ,56696
+01-12-2020,Nan ,68667
+01-12-2020,Kalasin ,15834
+01-12-2020,Khon Kaen ,150209
+01-12-2020,Chaiyaphum ,63667
+01-12-2020,Nakhon Phanom ,35059
+01-12-2020,Nakhon Ratchasima ,390347
+01-12-2020,Buriram ,69867
+01-12-2020,Maha Sarakham ,33643
+01-12-2020,Mukdahan ,27225
+01-12-2020,Roi Et ,32321
+01-12-2020,Loei ,132406
+01-12-2020,Sisaket ,24940
+01-12-2020,Surin ,63694
+01-12-2020,Nong Khai ,80205
+01-12-2020,Bueng Kan ,28191
+01-12-2020,Udon Thani ,157294
+01-12-2020,Ubon Ratchathani ,90999
+01-12-2020,Sakon Nakhon ,48720
+01-12-2020,Yasothon ,13667
+01-12-2020,Amnat Charoen ,6690
+01-12-2020,Nong Bua Lamphu ,10855
+01-12-2021,Bangkok,1103572
+01-12-2021,Lopburi ,46497
+01-12-2021,Phra Nakhon Si Ayutthaya ,66535
+01-12-2021,Saraburi ,67399
+01-12-2021,Chainat ,13622
+01-12-2021,Nakhon Pathom ,68813
+01-12-2021,Sing Buri ,10653
+01-12-2021,Ang Thong ,5250
+01-12-2021,Nonthaburi ,53732
+01-12-2021,Pathum Thani ,24549
+01-12-2021,Samut Prakan ,45307
+01-12-2021,Samut Sakhon ,19349
+01-12-2021,Chachoengsao ,23088
+01-12-2021,Ratchaburi ,78987
+01-12-2021,Kanchanaburi ,268663
+01-12-2021,Samut Songkhram ,66926
+01-12-2021,Suphan Buri ,81825
+01-12-2021,Phetchaburi ,256513
+01-12-2021,Prachuap Khiri Khan ,345371
+01-12-2021,Chonburi ,605407
+01-12-2021,Chanthaburi ,96072
+01-12-2021,Trat ,122401
+01-12-2021,Nakhon Nayok ,85712
+01-12-2021,Prachinburi ,57096
+01-12-2021,Rayong ,227031
+01-12-2021,Sa Kaeo ,39928
+01-12-2021,Phuket ,232109
+01-12-2021,Phatthalung ,13705
+01-12-2021,Trang ,65707
+01-12-2021,Ranong ,18793
+01-12-2021,Chumphon ,53634
+01-12-2021,Pattani ,5497
+01-12-2021,Yala ,39149
+01-12-2021,Nakhon Si Thammarat ,100284
+01-12-2021,Narathiwat ,3429
+01-12-2021,Krabi ,67381
+01-12-2021,Songkhla ,97294
+01-12-2021,Phang Nga ,71975
+01-12-2021,Surat Thani ,103356
+01-12-2021,Satun ,77459
+01-12-2021,Kamphaeng Phet ,32290
+01-12-2021,Chiang Rai ,278158
+01-12-2021,Chiang Mai ,519976
+01-12-2021,Phichit ,21361
+01-12-2021,Nakhon Sawan ,58149
+01-12-2021,Tak ,88540
+01-12-2021,Phitsanulok ,117368
+01-12-2021,Phayao ,30289
+01-12-2021,Phetchabun ,155884
+01-12-2021,Phrae ,43759
+01-12-2021,Lampang ,55540
+01-12-2021,Lamphun ,20295
+01-12-2021,Mae Hong Son ,110345
+01-12-2021,Uttaradit ,40990
+01-12-2021,Uthai Thani ,16811
+01-12-2021,Sukhothai ,47055
+01-12-2021,Nan ,91669
+01-12-2021,Kalasin ,15823
+01-12-2021,Khon Kaen ,158630
+01-12-2021,Chaiyaphum ,56563
+01-12-2021,Nakhon Phanom ,40155
+01-12-2021,Nakhon Ratchasima ,345907
+01-12-2021,Buriram ,66829
+01-12-2021,Maha Sarakham ,16635
+01-12-2021,Mukdahan ,28211
+01-12-2021,Roi Et ,17590
+01-12-2021,Loei ,81647
+01-12-2021,Sisaket ,25889
+01-12-2021,Surin ,57475
+01-12-2021,Nong Khai ,78145
+01-12-2021,Bueng Kan ,27628
+01-12-2021,Udon Thani ,100037
+01-12-2021,Ubon Ratchathani ,106208
+01-12-2021,Sakon Nakhon ,55976
+01-12-2021,Yasothon ,12363
+01-12-2021,Amnat Charoen ,6518
+01-12-2021,Nong Bua Lamphu ,7886
+01-12-2022,Bangkok,2222569
+01-12-2022,Lopburi ,61977
+01-12-2022,Phra Nakhon Si Ayutthaya ,83905
+01-12-2022,Saraburi ,93710
+01-12-2022,Chainat ,15509
+01-12-2022,Nakhon Pathom ,78307
+01-12-2022,Sing Buri ,13024
+01-12-2022,Ang Thong ,9590
+01-12-2022,Nonthaburi ,73876
+01-12-2022,Pathum Thani ,38085
+01-12-2022,Samut Prakan ,73415
+01-12-2022,Samut Sakhon ,28424
+01-12-2022,Chachoengsao ,30212
+01-12-2022,Ratchaburi ,83382
+01-12-2022,Kanchanaburi ,293434
+01-12-2022,Samut Songkhram ,70438
+01-12-2022,Suphan Buri ,99002
+01-12-2022,Phetchaburi ,324834
+01-12-2022,Prachuap Khiri Khan ,533496
+01-12-2022,Chonburi ,1384373
+01-12-2022,Chanthaburi ,78619
+01-12-2022,Trat ,129248
+01-12-2022,Nakhon Nayok ,92973
+01-12-2022,Prachinburi ,61315
+01-12-2022,Rayong ,260807
+01-12-2022,Sa Kaeo ,40958
+01-12-2022,Phuket ,656246
+01-12-2022,Phatthalung ,39914
+01-12-2022,Trang ,66532
+01-12-2022,Ranong ,35879
+01-12-2022,Chumphon ,87595
+01-12-2022,Pattani ,15971
+01-12-2022,Yala ,87181
+01-12-2022,Nakhon Si Thammarat ,151117
+01-12-2022,Narathiwat ,26538
+01-12-2022,Krabi ,114231
+01-12-2022,Songkhla ,176091
+01-12-2022,Phang Nga ,58982
+01-12-2022,Surat Thani ,291680
+01-12-2022,Satun ,70763
+01-12-2022,Kamphaeng Phet ,32085
+01-12-2022,Chiang Rai ,407728
+01-12-2022,Chiang Mai ,732873
+01-12-2022,Phichit ,34592
+01-12-2022,Nakhon Sawan ,85306
+01-12-2022,Tak ,147351
+01-12-2022,Phitsanulok ,146662
+01-12-2022,Phayao ,45091
+01-12-2022,Phetchabun ,192294
+01-12-2022,Phrae ,51177
+01-12-2022,Lampang ,63493
+01-12-2022,Lamphun ,24482
+01-12-2022,Mae Hong Son ,98459
+01-12-2022,Uttaradit ,49106
+01-12-2022,Uthai Thani ,28206
+01-12-2022,Sukhothai ,48123
+01-12-2022,Nan ,99249
+01-12-2022,Kalasin ,20570
+01-12-2022,Khon Kaen ,169886
+01-12-2022,Chaiyaphum ,59010
+01-12-2022,Nakhon Phanom ,60190
+01-12-2022,Nakhon Ratchasima ,450192
+01-12-2022,Buriram ,129964
+01-12-2022,Maha Sarakham ,25636
+01-12-2022,Mukdahan ,40182
+01-12-2022,Roi Et ,25426
+01-12-2022,Loei ,102632
+01-12-2022,Sisaket ,26164
+01-12-2022,Surin ,78705
+01-12-2022,Nong Khai ,83594
+01-12-2022,Bueng Kan ,31740
+01-12-2022,Udon Thani ,125559
+01-12-2022,Ubon Ratchathani ,90629
+01-12-2022,Sakon Nakhon ,59388
+01-12-2022,Yasothon ,10022
+01-12-2022,Amnat Charoen ,6603
+01-12-2022,Nong Bua Lamphu ,7947
